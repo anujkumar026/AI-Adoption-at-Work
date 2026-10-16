@@ -1,0 +1,1206 @@
+Respondent_ID,Age,Gender,Profession,Industry,Experience_Level,Primary_AI_Tool,Primary_Use_Case,Daily_AI_Usage_Hours,AI_Usage_Frequency,AI_Training_Received,Estimated_Time_Saved_Minutes_Daily,Self_Reported_Productivity_Score,Job_Satisfaction_Score_1_to_5
+AI10001,58,Male,Teacher,Media,2-5 years,Gemini,Data Analysis,9.4,Regular,No,54,92,2.4
+AI10002,36,Male,Data Analyst,Retail,0-1 years,ChatGPT,Customer Support,2.9,Regular,No,16,79,3.5
+AI10003,30,Prefer not to say,Student,Technology,6-10 years,ChatGPT,Data Analysis,5.5,Regular,Yes,34,78,3.5
+AI10004,37,Female,HR,Media,2-5 years,Microsoft Copilot,Learning,1.4,Occasional,Yes,0,52,3.5
+AI10005,44,Male,Software Developer,Retail,2-5 years,Microsoft Copilot,Data Analysis,1.9,Occasional,No,8,46,4
+AI10006,59,Female,Marketing,Retail,0-1 years,Claude,Research,3.8,Regular,No,36,62,3.7
+AI10007,58,Female,Student,Media,6-10 years,Microsoft Copilot,Writing,0.2,Regular,No,7,51,4.1
+AI10008,46,Male,Software Developer,Healthcare,6-10 years,Claude,Research,6.2,Regular,No,44,69,3.8
+AI10009,59,Female,HR,Education,2-5 years,Microsoft Copilot,Writing,2.4,Regular,Yes,37,74,3.3
+AI10010,27,Female,Software Developer,Media,2-5 years,ChatGPT,Writing,0.9,Regular,Yes,1,56,3.7
+AI10011,18,Male,Teacher,Technology,0-1 years,Gemini,Customer Support,5.9,Regular,No,61,79,3.5
+AI10012,47,Female,Teacher,Retail,2-5 years,Microsoft Copilot,Learning,3.4,Regular,No,11,61,3.9
+AI10013,58,Female,HR,Healthcare,2-5 years,Microsoft Copilot,Coding,3.7,Regular,Yes,65,73,2.9
+AI10014,18,Non-binary,Operations,Other,2-5 years,ChatGPT,Writing,3.3,Occasional,No,32,64,2.2
+AI10015,56,Male,HR,Education,2-5 years,Microsoft Copilot,Writing,1.4,Occasional,Yes,10,66,4.8
+AI10016,50,Female,Data Analyst,Technology,2-5 years,Other,Learning,0.3,Regular,Yes,5,61,3.8
+AI10017,50,Male,Teacher,Healthcare,0-1 years,Gemini,Data Analysis,1.9,Regular,Yes,15,76,2.3
+AI10018,31,Male,HR,Retail,2-5 years,Microsoft Copilot,Customer Support,3.7,Regular,No,39,66,1.7
+AI10019,53,Male,Student,Technology,6-10 years,ChatGPT,Data Analysis,0.5,Occasional,No,6,61,2.7
+AI10020,47,Male,Software Developer,Manufacturing,2-5 years,ChatGPT,Customer Support,1.9,Regular,Yes,19,67,3.7
+AI10021,53,Male,Data Analyst,Technology,2-5 years,Claude,Coding,1.1,Occasional,No,13,66,2.2
+AI10022,59,Male,Operations,Other,2-5 years,ChatGPT,Research,0.5,Regular,No,7,65,3.6
+AI10023,40,Female,HR,Other,6-10 years,Gemini,Learning,3,Regular,Yes,16,89,3.4
+AI10024,60,Female,Operations,Education,0-1 years,ChatGPT,Customer Support,3,Occasional,Yes,15,72,2.6
+AI10025,32,Female,Software Developer,Retail,6-10 years,Gemini,Learning,2.1,Regular,No,18,70,2.3
+AI10026,41,Female,HR,Media,2-5 years,Gemini,Customer Support,5,Rare,Yes,46,76,3.6
+AI10027,57,Male,Finance,Finance,0-1 years,Gemini,Coding,3.7,Regular,Yes,45,61,2.5
+AI10028,21,Male,Teacher,Manufacturing,2-5 years,ChatGPT,Learning,2.3,Regular,Yes,44,69,2.7
+AI10029,29,Female,Student,Media,2-5 years,Gemini,Learning,0.2,Occasional,Yes,2,66,3.4
+AI10030,20,Prefer not to say,Finance,Media,10+ years,ChatGPT,Coding,2.2,Regular,No,36,77,2.7
+AI10031,48,Female,HR,Retail,6-10 years,Claude,Research,3,Regular,Yes,26,73,1.7
+AI10032,29,Female,Teacher,Retail,6-10 years,Gemini,Customer Support,0.6,Regular,No,16,59,3.7
+AI10033,24,Female,HR,Technology,10+ years,ChatGPT,Content Creation,3.3,Regular,No,47,59,3.2
+AI10034,22,Prefer not to say,Marketing,Healthcare,2-5 years,Gemini,Research,2.1,Regular,Yes,25,86,4.4
+AI10035,49,Male,Marketing,Manufacturing,0-1 years,Microsoft Copilot,Writing,1,Regular,No,17,50,2.7
+AI10036,30,Female,Software Developer,Media,0-1 years,Gemini,Data Analysis,4.2,Occasional,No,74,72,2.7
+AI10037,58,Male,Data Analyst,Finance,6-10 years,Microsoft Copilot,Learning,0.5,Rare,No,2,65,1.3
+AI10038,56,Male,Software Developer,Finance,2-5 years,ChatGPT,Coding,2.3,Regular,No,32,60,1.9
+AI10039,32,Male,Data Analyst,Manufacturing,6-10 years,Other,Content Creation,4.5,Regular,Yes,64,84,3.6
+AI10040,31,Female,Data Analyst,Education,2-5 years,ChatGPT,Content Creation,1,Regular,No,20,39,1.7
+AI10041,55,Male,Teacher,Technology,0-1 years,Gemini,Writing,1,Regular,No,18,56,2.1
+AI10042,32,Male,Finance,Manufacturing,2-5 years,Microsoft Copilot,Learning,2,Rare,No,20,70,3.6
+AI10043,42,Female,Student,Manufacturing,0-1 years,Gemini,Customer Support,8.3,Regular,Yes,105,58,3.3
+AI10044,53,Male,Marketing,Media,0-1 years,ChatGPT,Content Creation,1.7,Occasional,Yes,26,47,3.8
+AI10045,54,Male,Software Developer,Media,2-5 years,Claude,Writing,1.1,Occasional,No,0,62,3.1
+AI10046,50,Male,HR,Media,10+ years,ChatGPT,Coding,3.6,Regular,Yes,35,54,3.7
+AI10047,44,Male,Teacher,Finance,10+ years,Microsoft Copilot,Coding,3.4,Regular,Yes,44,66,3.8
+AI10048,,Female,Student,Healthcare,6-10 years,ChatGPT,Writing,1.7,Regular,Yes,11,78,3.6
+AI10049,28,Female,Marketing,Retail,6-10 years,ChatGPT,Content Creation,2.8,Regular,No,42,46,3.2
+AI10050,39,Male,Marketing,Manufacturing,2-5 years,ChatGPT,Customer Support,1.2,Regular,No,17,70,2.6
+AI10051,60,Male,Operations,Healthcare,6-10 years,Microsoft Copilot,Learning,4.3,Rare,No,73,73,2.7
+AI10052,42,Male,Software Developer,Manufacturing,2-5 years,ChatGPT,Customer Support,0.7,Regular,No,9,57,3.7
+AI10053,35,Male,Data Analyst,Technology,6-10 years,Gemini,Customer Support,1.9,Regular,No,19,39,3.6
+AI10054,49,Female,Data Analyst,Finance,6-10 years,Microsoft Copilot,Writing,3,Regular,No,39,73,3.1
+AI10055,24,Male,Marketing,Manufacturing,6-10 years,Gemini,Customer Support,2,Regular,No,47,47,2.2
+AI10056,23,Female,Finance,Media,2-5 years,ChatGPT,Data Analysis,0.4,Regular,Yes,20,56,3.2
+AI10057,33,Male,Software Developer,Education,2-5 years,ChatGPT,Content Creation,,Regular,No,12,76,2.8
+AI10058,50,Female,Marketing,Other,6-10 years,ChatGPT,Research,1,Occasional,No,2,46,2
+AI10059,54,Female,HR,Media,10+ years,Other,Content Creation,1.5,Occasional,No,23,53,3
+AI10060,22,Female,Software Developer,Finance,6-10 years,ChatGPT,Content Creation,6.4,Regular,No,84,64,1
+AI10061,24,Prefer not to say,Operations,Manufacturing,2-5 years,Gemini,Coding,0.6,Occasional,No,19,40,2.6
+AI10062,43,Female,Data Analyst,Finance,0-1 years,ChatGPT,Research,5,Regular,No,68,73,1.3
+AI10063,49,Female,Operations,Education,2-5 years,ChatGPT,Coding,1.5,Regular,Yes,19,71,3.4
+AI10064,58,Male,Teacher,Retail,0-1 years,Gemini,Content Creation,1.5,Regular,No,7,58,2.5
+AI10065,35,Female,Operations,Other,6-10 years,Gemini,Coding,0.8,Regular,Yes,9,58,2.3
+AI10066,25,Male,Teacher,Other,10+ years,ChatGPT,Data Analysis,1.2,Occasional,No,18,59,3.3
+AI10067,28,Prefer not to say,Finance,Education,2-5 years,Claude,Research,3.4,Occasional,Yes,30,83,4.1
+AI10068,51,Male,Finance,Retail,2-5 years,Claude,Customer Support,1.2,Rare,Yes,16,54,2.1
+AI10069,46,Male,Data Analyst,Education,0-1 years,ChatGPT,Data Analysis,2.9,Occasional,No,44,79,3.1
+AI10070,34,Female,Software Developer,Other,0-1 years,Microsoft Copilot,Customer Support,4.2,Regular,No,18,59,2.3
+AI10071,42,Female,Marketing,Healthcare,6-10 years,ChatGPT,Customer Support,4.7,Rare,No,59,66,1.9
+AI10072,28,Female,Operations,Other,6-10 years,ChatGPT,Research,1.3,Occasional,No,21,70,2.4
+AI10073,42,Female,Teacher,Retail,6-10 years,Microsoft Copilot,Customer Support,2.6,Occasional,Yes,63,71,2.6
+AI10074,40,Female,Finance,Manufacturing,0-1 years,ChatGPT,Customer Support,1.1,Regular,No,22,60,3.8
+AI10075,25,Male,Finance,Education,0-1 years,Microsoft Copilot,Research,1.7,Regular,Yes,20,52,3.7
+AI10076,26,Male,Marketing,Manufacturing,2-5 years,Gemini,Customer Support,4.7,Occasional,No,79,79,1.7
+AI10077,52,Male,Marketing,Retail,6-10 years,Claude,Content Creation,3.4,Occasional,Yes,16,85,3.4
+AI10078,37,Male,Operations,Technology,2-5 years,ChatGPT,Writing,4.5,Regular,No,41,71,3.3
+AI10079,23,Female,Student,Healthcare,2-5 years,Other,Writing,0.7,Regular,No,0,68,1.4
+AI10080,43,Non-binary,Software Developer,Finance,2-5 years,Claude,Learning,5.3,Regular,Yes,50,80,2.4
+AI10081,39,Female,Marketing,Education,0-1 years,Microsoft Copilot,Coding,0.9,Regular,Yes,12,47,4.6
+AI10082,51,Female,HR,Media,2-5 years,Microsoft Copilot,Content Creation,1.3,Rare,No,22,59,2
+AI10083,24,Female,Marketing,Manufacturing,2-5 years,Microsoft Copilot,Content Creation,2.2,Rare,No,9,68,1.9
+AI10084,53,Male,Software Developer,Healthcare,0-1 years,ChatGPT,Data Analysis,2.5,Regular,No,32,70,2.2
+AI10085,57,Male,Student,Finance,0-1 years,ChatGPT,Research,0.7,Regular,Yes,0,63,3.4
+AI10086,56,Female,Software Developer,Technology,2-5 years,Gemini,Learning,0.3,Regular,Yes,7,60,3.7
+AI10087,24,Male,Student,Media,0-1 years,ChatGPT,Learning,1.3,Occasional,No,25,71,1.9
+AI10088,38,Female,HR,Education,2-5 years,ChatGPT,Writing,0.7,Occasional,No,0,66,3.4
+AI10089,33,Male,Marketing,Retail,0-1 years,ChatGPT,Writing,4.5,Regular,Yes,43,68,2.3
+AI10090,57,Female,Data Analyst,Technology,2-5 years,Gemini,Coding,0.3,Rare,No,8,47,3
+AI10091,56,Male,Finance,Education,0-1 years,Gemini,Learning,2.5,Regular,No,23,70,3.4
+AI10092,56,Male,Marketing,Retail,0-1 years,Microsoft Copilot,Content Creation,1.6,Regular,No,17,46,1.9
+AI10093,55,Female,Marketing,Finance,10+ years,ChatGPT,Customer Support,2.7,Regular,No,30,61,1.1
+AI10094,39,Male,Finance,Other,0-1 years,ChatGPT,Coding,0.6,Regular,No,19,52,1.8
+AI10095,18,Male,HR,Manufacturing,10+ years,ChatGPT,Content Creation,3.3,Regular,No,27,58,3.2
+AI10096,22,Female,Data Analyst,Healthcare,2-5 years,Claude,Customer Support,3.6,Regular,No,28,86,2.2
+AI10097,27,Female,Data Analyst,Other,2-5 years,Microsoft Copilot,Customer Support,0.1,Rare,Yes,7,62,4.4
+AI10098,33,Female,HR,Media,6-10 years,Claude,Research,5.6,Occasional,No,64,69,3.5
+AI10099,40,Female,Operations,Healthcare,2-5 years,ChatGPT,Coding,1.1,Regular,No,13,43,4.1
+AI10100,50,Male,Finance,Technology,2-5 years,ChatGPT,Content Creation,4.2,Occasional,No,47,62,3.9
+AI10101,28,Female,Marketing,Education,0-1 years,Microsoft Copilot,Writing,0.7,Occasional,No,12,62,2.4
+AI10102,42,Female,Finance,Media,10+ years,ChatGPT,Customer Support,1.3,Regular,No,14,55,3.3
+AI10103,38,Male,Student,Healthcare,0-1 years,ChatGPT,Learning,3.4,Occasional,No,24,66,2.6
+AI10104,26,Male,Software Developer,Other,10+ years,ChatGPT,Writing,1.1,Occasional,Yes,28,63,4
+AI10105,28,Female,Software Developer,Healthcare,2-5 years,Gemini,Coding,1.7,Occasional,Yes,13,52,3.6
+AI10106,55,Male,Marketing,Retail,6-10 years,ChatGPT,Customer Support,1.4,Regular,No,17,65,2.2
+AI10107,38,Female,HR,Media,2-5 years,Other,Data Analysis,1.6,Occasional,No,20,67,2.8
+AI10108,45,Female,Marketing,Healthcare,6-10 years,Gemini,Content Creation,1.1,Regular,No,13,66,3.8
+AI10109,33,Male,Teacher,Retail,6-10 years,Claude,Content Creation,1.4,Occasional,No,26,52,1
+AI10110,23,Male,Marketing,Other,0-1 years,Gemini,Writing,2.3,Occasional,Yes,37,64,3.9
+AI10111,29,Female,Student,Technology,2-5 years,ChatGPT,Coding,2.4,Regular,Yes,43,74,4.2
+AI10112,53,Male,HR,Technology,0-1 years,Other,Writing,2,Regular,Yes,22,73,3.1
+AI10113,55,Male,Teacher,Other,0-1 years,Microsoft Copilot,Coding,4,Occasional,Yes,27,75,4.7
+AI10114,40,Male,Finance,Other,0-1 years,Claude,Research,3.5,Rare,Yes,59,80,3.4
+AI10115,45,Prefer not to say,Operations,Other,2-5 years,Microsoft Copilot,Writing,3.3,Regular,No,43,61,2.5
+AI10116,33,Female,Marketing,Other,10+ years,ChatGPT,Coding,1.7,Regular,Yes,0,59,4.6
+AI10117,56,Male,Teacher,Education,0-1 years,Other,Coding,2.9,Regular,Yes,38,65,4.6
+AI10118,40,Female,Student,Other,0-1 years,ChatGPT,Learning,1.6,Regular,Yes,28,69,3.7
+AI10119,45,Female,Student,Technology,6-10 years,ChatGPT,Writing,0.3,Regular,No,5,39,3.5
+AI10120,41,Male,Teacher,Other,2-5 years,ChatGPT,Learning,2.9,Regular,No,44,51,2.5
+AI10121,41,Prefer not to say,Teacher,Manufacturing,0-1 years,ChatGPT,Writing,3,Rare,No,40,67,2.4
+AI10122,60,Female,Finance,Retail,0-1 years,Gemini,Writing,2.3,Regular,Yes,21,64,2.5
+AI10123,40,Female,Teacher,Healthcare,10+ years,Gemini,Content Creation,3.4,Occasional,Yes,23,38,4.5
+AI10124,47,Male,Software Developer,Manufacturing,0-1 years,Claude,Content Creation,0.3,Regular,No,1,50,2.6
+AI10125,36,Female,HR,Manufacturing,2-5 years,Other,Learning,0.8,Rare,No,8,56,4
+AI10126,29,Female,Marketing,Retail,6-10 years,Microsoft Copilot,Data Analysis,4.1,Occasional,Yes,75,83,3.5
+AI10127,24,Female,Software Developer,Education,10+ years,Claude,Customer Support,1.5,Regular,Yes,19,63,4.8
+AI10128,35,Female,Student,Finance,10+ years,Other,Content Creation,2.3,Rare,No,21,66,4.3
+AI10129,42,Female,Data Analyst,Technology,0-1 years,Gemini,Research,4.5,Regular,Yes,31,75,3.1
+AI10130,22,Female,Operations,Other,0-1 years,ChatGPT,Content Creation,1.4,Regular,No,11,63,2.1
+AI10131,58,Female,Marketing,Media,6-10 years,ChatGPT,Coding,1.7,Occasional,No,18,61,3
+AI10132,33,Female,Operations,Education,6-10 years,ChatGPT,Coding,1.7,Occasional,No,20,49,3.2
+AI10133,58,Male,Software Developer,Retail,0-1 years,Microsoft Copilot,Customer Support,3.4,Rare,Yes,33,65,2.9
+AI10134,52,Male,Student,Finance,0-1 years,Other,Customer Support,0.8,Regular,Yes,7,57,4.1
+AI10135,22,Female,Software Developer,Retail,0-1 years,Microsoft Copilot,Coding,1.9,Rare,No,19,46,3.1
+AI10136,35,Male,Software Developer,Other,2-5 years,Gemini,Research,2,Regular,No,38,66,2.2
+AI10137,23,Prefer not to say,HR,Retail,2-5 years,Claude,Content Creation,6.6,Occasional,Yes,80,86,3.1
+AI10138,52,Male,HR,Other,6-10 years,Microsoft Copilot,Content Creation,2.4,Occasional,No,23,53,1.6
+AI10139,32,Female,HR,Finance,2-5 years,Gemini,Customer Support,2.5,Regular,Yes,30,77,3.7
+AI10140,31,Female,Software Developer,Finance,2-5 years,Claude,Content Creation,1.5,Regular,Yes,20,63,1
+AI10141,51,Male,Marketing,Media,2-5 years,Microsoft Copilot,Research,2.5,Regular,No,33,73,3.4
+AI10142,44,Male,Finance,Other,2-5 years,Other,Writing,0.9,Regular,Yes,10,60,3.5
+AI10143,18,Male,Finance,Manufacturing,2-5 years,Microsoft Copilot,Content Creation,6.4,Rare,No,37,95,2.8
+AI10144,21,Female,Marketing,Media,2-5 years,ChatGPT,Content Creation,2.4,Regular,No,29,56,2
+AI10145,19,Male,Data Analyst,Healthcare,10+ years,Other,Content Creation,3.2,Regular,No,22,74,1.8
+AI10146,23,Male,Teacher,Media,10+ years,Gemini,Coding,1.8,Regular,No,34,76,4.8
+AI10147,36,Male,Finance,Technology,2-5 years,ChatGPT,Coding,1,Occasional,Yes,0,64,2
+AI10148,35,Female,Operations,Retail,2-5 years,Microsoft Copilot,Learning,4.4,Occasional,Yes,79,69,2.5
+AI10149,33,Female,Operations,Manufacturing,6-10 years,Gemini,Coding,1,Occasional,No,9,59,3.1
+AI10150,57,Male,Operations,Healthcare,0-1 years,Gemini,Customer Support,2.8,Regular,No,42,65,3.4
+AI10151,42,Female,Operations,Finance,2-5 years,Microsoft Copilot,Writing,2.4,Regular,No,2,54,3.8
+AI10152,48,Female,Finance,Education,6-10 years,Gemini,Writing,3.6,Occasional,No,21,80,3.9
+AI10153,25,Female,Software Developer,Healthcare,2-5 years,ChatGPT,Customer Support,3.2,Rare,No,36,56,3.5
+AI10154,27,Female,Data Analyst,Finance,2-5 years,ChatGPT,Customer Support,1.7,Regular,No,36,62,3.7
+AI10155,28,Male,Student,Manufacturing,2-5 years,Gemini,Writing,1.1,Regular,Yes,10,72,2.8
+AI10156,30,Male,Operations,Finance,2-5 years,Gemini,Learning,4.6,Occasional,Yes,82,86,4.8
+AI10157,49,Female,Software Developer,Manufacturing,0-1 years,ChatGPT,Data Analysis,1.1,Regular,No,11,63,3.6
+AI10158,19,Female,Student,Education,2-5 years,ChatGPT,Content Creation,5.9,Regular,No,55,89,3.3
+AI10159,21,Female,Student,Other,2-5 years,Microsoft Copilot,Coding,0.8,Occasional,Yes,3,51,3.3
+AI10160,45,Female,Software Developer,Education,6-10 years,Claude,Learning,1.5,Occasional,No,19,49,2.7
+AI10161,23,Female,Operations,Finance,0-1 years,Microsoft Copilot,Content Creation,4.9,Regular,Yes,34,84,3.1
+AI10162,58,Female,Software Developer,Finance,6-10 years,Microsoft Copilot,Content Creation,1.2,Regular,Yes,3,66,3.5
+AI10163,19,Female,Student,Media,0-1 years,Gemini,Data Analysis,1.9,Occasional,No,28,62,3.4
+AI10164,45,Female,HR,Healthcare,0-1 years,ChatGPT,Writing,7.9,Rare,Yes,51,85,5
+AI10165,35,Male,Student,Media,2-5 years,ChatGPT,Customer Support,0.7,Occasional,No,0,50,2.9
+AI10166,50,Female,Marketing,Media,2-5 years,ChatGPT,Coding,2,Regular,Yes,17,78,3.7
+AI10167,56,Female,Student,Manufacturing,2-5 years,Microsoft Copilot,Data Analysis,0.5,Regular,No,4,61,3
+AI10168,34,Male,Student,Retail,0-1 years,Gemini,Learning,4.4,Rare,Yes,38,95,4.4
+AI10169,44,Male,Software Developer,Retail,2-5 years,Microsoft Copilot,Content Creation,4.5,Rare,Yes,23,71,4
+AI10170,51,Male,Student,Retail,6-10 years,Microsoft Copilot,Learning,6.5,Occasional,Yes,38,89,2.9
+AI10171,38,Female,Teacher,Media,0-1 years,Gemini,Learning,0.8,Occasional,Yes,11,71,2.3
+AI10172,39,Female,Finance,Media,0-1 years,ChatGPT,Coding,3,Regular,No,28,68,3.3
+AI10173,34,Female,Operations,Healthcare,0-1 years,Claude,Research,2.4,Regular,Yes,36,61,3.5
+AI10174,48,Male,Marketing,Media,0-1 years,Claude,Data Analysis,4.7,Occasional,No,56,60,3
+AI10175,59,Male,Finance,Education,2-5 years,ChatGPT,Writing,2.5,Regular,Yes,40,75,2.4
+AI10176,29,Female,Finance,Healthcare,2-5 years,ChatGPT,Research,2.2,Regular,No,31,60,3.9
+AI10177,29,Prefer not to say,Marketing,Manufacturing,2-5 years,Gemini,Research,1.7,Regular,Yes,37,60,3.8
+AI10178,48,Prefer not to say,Finance,Retail,2-5 years,ChatGPT,Customer Support,2,Regular,No,18,66,2.7
+AI10179,34,Female,Finance,Healthcare,2-5 years,ChatGPT,Learning,1.5,Rare,No,11,54,1.9
+AI10180,28,Female,Operations,Other,2-5 years,Claude,Writing,2.2,Rare,Yes,39,79,5
+AI10181,20,Prefer not to say,Software Developer,Education,0-1 years,Gemini,Research,0.3,Occasional,No,15,48,3.9
+AI10182,32,Female,Operations,Education,2-5 years,Microsoft Copilot,Customer Support,6.3,Rare,No,70,80,3.6
+AI10183,39,Male,Data Analyst,Healthcare,6-10 years,ChatGPT,Learning,1.5,Regular,Yes,2,70,3.1
+AI10184,30,Female,Data Analyst,Retail,0-1 years,Other,Customer Support,0.8,Occasional,No,11,66,2.5
+AI10185,48,Female,Software Developer,Healthcare,0-1 years,Claude,Research,1.5,Occasional,Yes,18,83,2.8
+AI10186,36,Male,Operations,Media,0-1 years,Gemini,Data Analysis,,Rare,Yes,52,67,4.8
+AI10187,32,Female,Data Analyst,Manufacturing,0-1 years,Other,Customer Support,3.4,Occasional,Yes,13,58,2.4
+AI10188,27,Female,Teacher,Healthcare,0-1 years,Other,Coding,2.1,Occasional,Yes,15,73,2.4
+AI10189,35,Female,Finance,Finance,2-5 years,Gemini,Learning,2.6,Rare,Yes,35,69,3.2
+AI10190,43,Female,HR,Manufacturing,2-5 years,Microsoft Copilot,Writing,2.1,Rare,No,18,58,4.5
+AI10191,43,Male,Student,Healthcare,0-1 years,Claude,Research,6.1,Regular,Yes,94,75,1.9
+AI10192,45,Male,HR,Media,6-10 years,Microsoft Copilot,Learning,2.4,Regular,No,44,74,3.6
+AI10193,34,Female,Student,Technology,2-5 years,Microsoft Copilot,Customer Support,2.4,Occasional,Yes,24,80,2.1
+AI10194,27,Male,Finance,Media,2-5 years,Gemini,Learning,1,Regular,Yes,0,75,3.4
+AI10195,60,Female,Teacher,Manufacturing,2-5 years,Gemini,Customer Support,1.7,Regular,No,8,64,3.3
+AI10196,51,Male,Operations,Retail,2-5 years,Gemini,Data Analysis,1.7,Occasional,No,26,80,3.1
+AI10197,56,Female,Operations,Other,0-1 years,ChatGPT,Coding,1.5,Regular,Yes,10,63,2.9
+AI10198,46,Male,Data Analyst,Manufacturing,2-5 years,Gemini,Data Analysis,4.3,Rare,No,29,86,2.2
+AI10199,52,Male,Teacher,Other,2-5 years,ChatGPT,Coding,1.5,Rare,No,11,48,1.9
+AI10200,59,Female,Finance,Manufacturing,0-1 years,ChatGPT,Customer Support,1,Regular,No,15,55,3.2
+AI10201,31,Prefer not to say,HR,Finance,2-5 years,Gemini,Customer Support,2.2,Regular,No,14,60,3.5
+AI10202,55,Female,Teacher,Healthcare,0-1 years,Gemini,Writing,0.4,Regular,Yes,15,40,2.3
+AI10203,42,Female,Marketing,Other,6-10 years,Microsoft Copilot,Learning,1.4,Regular,Yes,14,83,4.1
+AI10204,58,Female,Data Analyst,Education,0-1 years,Microsoft Copilot,Research,0.6,Regular,Yes,0,66,4.2
+AI10205,58,Female,Teacher,Other,2-5 years,ChatGPT,Customer Support,3.3,Rare,Yes,15,75,2.8
+AI10206,57,Male,Finance,Other,0-1 years,Gemini,Research,1.5,Regular,Yes,22,68,3.5
+AI10207,57,Female,Data Analyst,Media,2-5 years,ChatGPT,Data Analysis,3.9,Regular,No,47,74,3.5
+AI10208,56,Male,Marketing,Healthcare,0-1 years,ChatGPT,Learning,1.1,Regular,Yes,10,80,2.9
+AI10209,46,Female,Data Analyst,Manufacturing,6-10 years,Gemini,Content Creation,0.8,Occasional,No,6,73,4.3
+AI10210,60,Male,Teacher,Finance,0-1 years,Claude,Learning,4,Regular,Yes,54,73,2.1
+AI10211,57,Female,Software Developer,Technology,6-10 years,Gemini,Content Creation,3,Occasional,No,20,68,1.3
+AI10212,59,Female,Student,Finance,2-5 years,ChatGPT,Data Analysis,5.2,Occasional,No,86,76,4.3
+AI10213,40,Male,Software Developer,Other,0-1 years,Claude,Data Analysis,,Regular,No,13,64,2.5
+AI10214,33,Male,Finance,Healthcare,0-1 years,ChatGPT,Research,0.8,Regular,Yes,18,62,3.9
+AI10215,25,Female,Finance,Manufacturing,2-5 years,ChatGPT,Coding,1.3,Regular,No,12,63,2.2
+AI10216,23,Female,Teacher,Retail,6-10 years,Microsoft Copilot,Learning,6.3,Occasional,Yes,65,94,3.1
+AI10217,46,Male,Software Developer,Other,2-5 years,Microsoft Copilot,Content Creation,2.7,Occasional,No,22,75,3.2
+AI10218,57,Male,HR,Retail,2-5 years,ChatGPT,Customer Support,5.7,Rare,No,113,82,3.2
+AI10219,46,Non-binary,Operations,Healthcare,6-10 years,Gemini,Coding,3.6,Occasional,No,9,67,5
+AI10220,31,Female,Software Developer,Healthcare,0-1 years,Microsoft Copilot,Customer Support,1.9,Regular,No,28,62,2.4
+AI10221,26,Female,Student,Manufacturing,10+ years,Claude,Learning,0.6,Regular,No,2,58,2.1
+AI10222,55,Male,HR,Education,0-1 years,Gemini,Learning,2.2,Regular,Yes,38,75,3.7
+AI10223,19,Male,Finance,Other,6-10 years,ChatGPT,Customer Support,1.8,Occasional,Yes,23,69,3.6
+AI10224,60,Female,Software Developer,Other,2-5 years,ChatGPT,Customer Support,6.7,Rare,Yes,72,99,3.2
+AI10225,25,Male,Finance,Education,0-1 years,ChatGPT,Learning,2.3,Occasional,Yes,41,68,3.3
+AI10226,44,Female,HR,Education,6-10 years,ChatGPT,Research,2.7,Rare,Yes,48,62,4.6
+AI10227,54,Female,Teacher,Other,2-5 years,ChatGPT,Content Creation,5.6,Regular,Yes,49,90,5
+AI10228,30,Male,Data Analyst,Other,6-10 years,ChatGPT,Coding,0.7,Regular,No,0,42,3.2
+AI10229,20,Female,Marketing,Healthcare,2-5 years,Microsoft Copilot,Content Creation,1.7,Occasional,Yes,24,75,3.3
+AI10230,46,Male,Software Developer,Education,2-5 years,Claude,Coding,2.2,Regular,No,15,63,3.9
+AI10231,56,Female,Software Developer,Education,2-5 years,Claude,Coding,1.4,Occasional,No,9,56,3.7
+AI10232,54,Female,Student,Retail,0-1 years,ChatGPT,Content Creation,1.4,Rare,No,25,55,2.7
+AI10233,36,Female,Marketing,Other,0-1 years,Gemini,Coding,3,Occasional,No,43,52,3.8
+AI10234,25,Male,Student,Media,0-1 years,ChatGPT,Writing,1.7,Occasional,No,19,43,3.6
+AI10235,26,Prefer not to say,Operations,Education,2-5 years,Other,Research,0.4,Occasional,No,8,53,4.7
+AI10236,55,Prefer not to say,Finance,,6-10 years,Microsoft Copilot,Customer Support,0.7,Regular,Yes,0,68,3.1
+AI10237,40,Male,Marketing,Media,0-1 years,Claude,Customer Support,9.8,Regular,No,117,86,2.2
+AI10238,48,Male,Data Analyst,Manufacturing,6-10 years,Other,Research,4.7,Occasional,Yes,40,88,2.2
+AI10239,52,Female,Operations,Healthcare,0-1 years,Gemini,Research,2.1,Regular,No,21,54,2.1
+AI10240,57,Female,Finance,Education,2-5 years,Gemini,Coding,2.6,Regular,Yes,27,75,3.6
+AI10241,30,Female,Operations,Manufacturing,6-10 years,Gemini,Research,3.5,Regular,Yes,15,72,2.5
+AI10242,32,Male,HR,Media,2-5 years,Other,Coding,3.2,Regular,No,23,60,3.8
+AI10243,43,Female,Operations,Retail,6-10 years,Microsoft Copilot,Data Analysis,0.7,Occasional,No,21,46,3.8
+AI10244,57,Female,Operations,Manufacturing,0-1 years,ChatGPT,Data Analysis,3,Regular,No,42,77,3.1
+AI10245,53,Prefer not to say,HR,Education,2-5 years,Gemini,Customer Support,2.7,Regular,No,10,64,2.3
+AI10246,25,Female,Software Developer,Other,6-10 years,ChatGPT,Content Creation,0.3,Regular,No,0,38,3.5
+AI10247,56,Female,Teacher,Finance,0-1 years,ChatGPT,Data Analysis,2.4,Regular,No,37,59,3.5
+AI10248,49,Female,Software Developer,Other,6-10 years,Claude,Research,2.5,Occasional,No,41,53,1.3
+AI10249,53,Male,Teacher,Technology,0-1 years,Microsoft Copilot,Content Creation,1.2,Occasional,No,24,55,4.2
+AI10250,58,Female,Software Developer,Media,2-5 years,Claude,Customer Support,2.4,Regular,No,37,77,2
+AI10251,20,Male,Student,Media,2-5 years,ChatGPT,Customer Support,2.7,Occasional,No,35,73,3.5
+AI10252,41,Prefer not to say,Student,Media,2-5 years,Other,Content Creation,1.3,Regular,Yes,9,69,2.7
+AI10253,19,Male,Marketing,Finance,2-5 years,Gemini,Content Creation,2.9,Regular,No,15,63,2.6
+AI10254,24,Male,HR,Other,0-1 years,ChatGPT,Learning,2.8,Regular,No,17,74,2.3
+AI10255,32,Prefer not to say,Software Developer,,0-1 years,Other,Writing,1.5,Regular,No,27,68,2.2
+AI10256,59,Female,Teacher,Manufacturing,6-10 years,ChatGPT,Coding,0.7,Regular,No,4,67,2.4
+AI10257,46,Female,Software Developer,Education,0-1 years,ChatGPT,Research,1.8,Regular,Yes,28,55,3.3
+AI10258,43,Male,Marketing,Retail,2-5 years,,Learning,1.4,Regular,No,13,64,3.8
+AI10259,21,Male,Software Developer,Finance,2-5 years,Microsoft Copilot,Learning,4.2,Regular,No,70,83,3.3
+AI10260,29,Male,Finance,Retail,6-10 years,Microsoft Copilot,Customer Support,2.2,Regular,Yes,38,56,3.8
+AI10261,18,Female,Data Analyst,Manufacturing,2-5 years,Claude,Research,2.8,Regular,No,34,67,2
+AI10262,57,Female,Operations,Retail,2-5 years,Microsoft Copilot,Coding,2.3,Rare,No,22,59,2.2
+AI10263,35,Male,Operations,Education,10+ years,Other,Research,4.9,Rare,Yes,19,74,2.8
+AI10264,53,Non-binary,HR,Manufacturing,2-5 years,Claude,Writing,1.8,Rare,Yes,14,63,4.2
+AI10265,20,Female,Finance,Finance,10+ years,Gemini,Writing,1.8,Occasional,Yes,13,61,3.5
+AI10266,58,Prefer not to say,HR,Retail,0-1 years,Microsoft Copilot,Customer Support,5,Regular,No,99,68,2.9
+AI10267,41,Female,Marketing,Manufacturing,2-5 years,Microsoft Copilot,Coding,1.3,Rare,Yes,43,65,2.6
+AI10268,45,Female,Operations,Education,2-5 years,ChatGPT,Learning,5.2,Regular,No,44,80,3.6
+AI10269,49,Female,Student,Finance,6-10 years,Microsoft Copilot,Research,2.1,Rare,Yes,8,64,1.3
+AI10270,27,Female,Data Analyst,Technology,6-10 years,Gemini,Coding,2.7,Rare,Yes,16,71,2.6
+AI10271,38,Male,Marketing,Manufacturing,0-1 years,ChatGPT,Research,1.6,Regular,No,17,43,3
+AI10272,43,Female,HR,Healthcare,0-1 years,Gemini,Content Creation,3.7,Regular,No,48,80,3.7
+AI10273,52,Female,HR,Education,2-5 years,ChatGPT,Content Creation,2.7,Rare,No,46,65,2.8
+AI10274,39,Male,HR,Finance,0-1 years,Gemini,Customer Support,2.1,Occasional,No,22,57,2.3
+AI10275,43,Female,Operations,Other,0-1 years,ChatGPT,Learning,0.6,Regular,No,10,30,1.3
+AI10276,39,Male,Teacher,Manufacturing,2-5 years,Microsoft Copilot,Coding,1.3,Regular,Yes,1,70,3.1
+AI10277,31,Female,Operations,Healthcare,6-10 years,ChatGPT,Data Analysis,2.2,Occasional,Yes,9,58,3
+AI10278,18,Male,Software Developer,Other,0-1 years,ChatGPT,Customer Support,4.7,Regular,No,66,83,4.1
+AI10279,52,Female,HR,Manufacturing,2-5 years,Claude,Data Analysis,1.3,Rare,Yes,25,55,2.9
+AI10280,29,Male,HR,Finance,2-5 years,Gemini,Data Analysis,3.3,Regular,Yes,56,54,3.1
+AI10281,34,Male,Finance,Technology,6-10 years,ChatGPT,Research,0.6,Regular,No,0,65,3.3
+AI10282,29,Female,Finance,Media,6-10 years,ChatGPT,Writing,3.4,Rare,No,75,69,2.7
+AI10283,47,Male,Finance,Finance,2-5 years,Gemini,Customer Support,0.7,Occasional,Yes,9,39,4.4
+AI10284,21,Male,Marketing,Finance,6-10 years,Microsoft Copilot,Content Creation,3.6,Regular,No,47,86,3.1
+AI10285,37,Female,Data Analyst,Finance,0-1 years,ChatGPT,Writing,1.3,Regular,No,24,51,2.9
+AI10286,34,Male,Student,Manufacturing,0-1 years,Claude,Writing,2.4,Regular,Yes,14,42,1.8
+AI10287,43,Female,Student,Technology,2-5 years,ChatGPT,Data Analysis,2.3,Regular,No,15,84,1.7
+AI10288,,Female,Software Developer,Education,0-1 years,Gemini,Customer Support,0.8,Regular,No,3,48,3.3
+AI10289,27,Female,Software Developer,Retail,2-5 years,ChatGPT,Coding,4.3,Regular,No,74,58,3.1
+AI10290,47,Male,Operations,Retail,10+ years,Microsoft Copilot,Content Creation,3.8,Occasional,No,75,69,2.2
+AI10291,51,Male,Data Analyst,Manufacturing,2-5 years,Claude,Customer Support,1.2,Regular,Yes,2,66,2.4
+AI10292,40,Male,Data Analyst,Retail,0-1 years,ChatGPT,Research,4.2,Rare,No,57,64,2.7
+AI10293,48,Prefer not to say,Student,Technology,6-10 years,Microsoft Copilot,Data Analysis,2.1,Regular,No,26,70,3.8
+AI10294,37,Male,Student,Media,2-5 years,Microsoft Copilot,Writing,0.6,Regular,No,0,58,2.1
+AI10295,41,Female,HR,Other,2-5 years,Other,Data Analysis,5.3,Rare,No,41,95,2.6
+AI10296,24,Male,Software Developer,Education,6-10 years,Gemini,Content Creation,2.9,Occasional,No,30,68,1.4
+AI10297,43,Male,Finance,Finance,0-1 years,Gemini,Content Creation,3.6,Regular,No,27,62,3.5
+AI10298,28,Male,Student,Retail,0-1 years,ChatGPT,Research,1.3,Regular,No,18,67,1.6
+AI10299,55,Male,Teacher,Healthcare,2-5 years,ChatGPT,Content Creation,0.8,Rare,Yes,10,64,3.3
+AI10300,31,Male,Software Developer,Media,2-5 years,ChatGPT,Data Analysis,3.4,Regular,Yes,26,74,2.9
+AI10301,25,Non-binary,Student,Other,2-5 years,ChatGPT,Customer Support,4.4,Occasional,No,38,70,4.4
+AI10302,24,Prefer not to say,Operations,Manufacturing,10+ years,Gemini,Content Creation,0.4,Regular,Yes,1,75,2.3
+AI10303,18,Male,Software Developer,Healthcare,0-1 years,Claude,Customer Support,6.2,Occasional,Yes,49,93,2.6
+AI10304,29,Male,Software Developer,Technology,6-10 years,Claude,Writing,1.4,Regular,No,21,61,3.3
+AI10305,28,Female,Student,Manufacturing,2-5 years,ChatGPT,Content Creation,5.1,Occasional,No,41,76,3.7
+AI10306,35,Male,Finance,Media,6-10 years,Gemini,Research,1.6,Regular,No,15,52,2.8
+AI10307,18,Non-binary,Software Developer,Other,0-1 years,Claude,Writing,2.5,Regular,Yes,44,57,3.9
+AI10308,27,Female,Data Analyst,Technology,0-1 years,ChatGPT,Writing,1.7,Regular,No,35,53,3.3
+AI10309,55,Female,HR,Retail,2-5 years,Gemini,Content Creation,0.6,Rare,No,20,55,3
+AI10310,28,Female,HR,Education,10+ years,ChatGPT,Writing,0.7,Occasional,Yes,10,56,2.7
+AI10311,56,Male,Data Analyst,Other,0-1 years,Other,Writing,1,Regular,No,16,58,4
+AI10312,51,Female,Data Analyst,Education,0-1 years,Microsoft Copilot,Research,1.6,Regular,No,22,76,2.4
+AI10313,21,Male,Data Analyst,Media,0-1 years,Microsoft Copilot,Research,0.5,Rare,No,5,31,3.2
+AI10314,33,Female,Teacher,Media,0-1 years,Claude,Data Analysis,1.5,Occasional,Yes,15,56,2.4
+AI10315,19,Female,Software Developer,Healthcare,0-1 years,ChatGPT,Content Creation,2.8,Regular,No,31,61,4.3
+AI10316,34,Male,Marketing,Media,2-5 years,ChatGPT,Data Analysis,5.8,Occasional,No,112,73,4.2
+AI10317,35,Female,Data Analyst,Education,2-5 years,Claude,Coding,2.4,Regular,Yes,3,71,3.6
+AI10318,51,Female,Data Analyst,Other,2-5 years,Gemini,Content Creation,1.2,Occasional,No,15,62,2.4
+AI10319,33,Male,HR,Finance,0-1 years,Microsoft Copilot,Writing,1.5,Occasional,No,13,62,4.2
+AI10320,51,Female,Teacher,Media,0-1 years,ChatGPT,Content Creation,0.7,Regular,No,20,55,2.2
+AI10321,40,Female,Teacher,Education,2-5 years,Claude,Learning,1.8,Regular,Yes,28,85,3.8
+AI10322,48,Female,Finance,Other,0-1 years,Claude,Research,1.7,Rare,Yes,30,55,3.7
+AI10323,32,Male,Software Developer,Technology,0-1 years,Microsoft Copilot,Writing,2.4,Regular,No,30,52,3.2
+AI10324,42,Male,Marketing,Other,2-5 years,ChatGPT,Data Analysis,4.2,Rare,No,74,79,3.3
+AI10325,19,Female,Data Analyst,Finance,2-5 years,ChatGPT,Learning,3.5,Occasional,Yes,63,73,4.3
+AI10326,20,Male,Data Analyst,Retail,6-10 years,Claude,Writing,0.9,Occasional,No,25,50,1.2
+AI10327,49,Male,Marketing,Manufacturing,2-5 years,ChatGPT,Research,0.4,Rare,Yes,12,63,1.8
+AI10328,54,Male,Teacher,Manufacturing,2-5 years,Gemini,Coding,0.6,Occasional,Yes,0,62,3
+AI10329,21,Male,Software Developer,Retail,6-10 years,Gemini,Writing,1.2,Occasional,Yes,12,54,2.4
+AI10330,44,Male,Software Developer,Other,0-1 years,ChatGPT,Coding,3.1,Occasional,No,4,64,3
+AI10331,22,Female,Student,Retail,0-1 years,ChatGPT,Customer Support,1.1,Rare,Yes,21,69,2.6
+AI10332,58,Female,Student,Retail,2-5 years,,Data Analysis,3,Regular,No,15,62,2.3
+AI10333,20,Male,Finance,Education,0-1 years,Microsoft Copilot,Customer Support,1.7,Regular,Yes,19,84,4.3
+AI10334,25,Male,Operations,Technology,0-1 years,Gemini,Research,6.3,Regular,Yes,56,72,2.9
+AI10335,53,Female,Finance,Healthcare,0-1 years,Microsoft Copilot,Data Analysis,3.7,Occasional,No,32,60,2.4
+AI10336,23,Female,Student,Other,6-10 years,ChatGPT,Content Creation,0.5,Regular,No,0,67,3.9
+AI10337,25,Male,Finance,Retail,0-1 years,ChatGPT,Writing,3.1,Rare,No,25,72,2.3
+AI10338,56,Female,Student,Education,0-1 years,ChatGPT,Data Analysis,1,Regular,No,35,53,2.7
+AI10339,21,Prefer not to say,HR,Technology,2-5 years,ChatGPT,Content Creation,0.2,Regular,Yes,7,70,4
+AI10340,31,Male,Marketing,Retail,0-1 years,ChatGPT,Writing,3.7,Regular,No,30,61,4.2
+AI10341,55,Male,Software Developer,Technology,0-1 years,ChatGPT,Content Creation,1.5,Regular,No,25,68,3.3
+AI10342,59,Female,Data Analyst,Other,2-5 years,Other,Coding,5.7,Regular,Yes,51,78,2.9
+AI10343,23,Female,Data Analyst,Technology,2-5 years,ChatGPT,Research,4.5,Occasional,No,43,63,3.4
+AI10344,50,Prefer not to say,Software Developer,Manufacturing,0-1 years,ChatGPT,Learning,1.5,Regular,No,27,43,2.5
+AI10345,58,Male,Marketing,Media,2-5 years,Claude,Writing,0.5,Occasional,Yes,5,65,4.1
+AI10346,27,Male,Finance,Retail,2-5 years,ChatGPT,Coding,0.7,Regular,No,0,48,4.2
+AI10347,40,Female,HR,Retail,6-10 years,ChatGPT,Customer Support,3,Regular,Yes,41,95,3.6
+AI10348,44,Male,Operations,Healthcare,0-1 years,ChatGPT,Data Analysis,2.5,Regular,Yes,33,77,3.9
+AI10349,33,Female,Student,Technology,2-5 years,Claude,Learning,0.9,Regular,Yes,17,60,3.5
+AI10350,32,Female,Operations,Finance,0-1 years,ChatGPT,Learning,1.2,Regular,No,0,52,2.4
+AI10351,33,Female,Finance,Healthcare,6-10 years,ChatGPT,Learning,7.4,Rare,Yes,48,100,2.8
+AI10352,53,Male,Student,Retail,0-1 years,Microsoft Copilot,Writing,2.1,Occasional,No,38,76,2.6
+AI10353,19,Female,Teacher,Media,6-10 years,Microsoft Copilot,Writing,1.7,Occasional,No,5,67,3
+AI10354,45,Male,Teacher,Manufacturing,6-10 years,ChatGPT,Content Creation,0.3,Occasional,No,1,46,2.1
+AI10355,40,Non-binary,Software Developer,Other,6-10 years,ChatGPT,Writing,0.5,Regular,No,36,62,1.7
+AI10356,,Female,Data Analyst,Retail,2-5 years,ChatGPT,Content Creation,4,Regular,Yes,54,59,4.8
+AI10357,49,Male,Software Developer,Healthcare,2-5 years,Microsoft Copilot,Coding,5.6,Occasional,No,31,72,2.9
+AI10358,30,Female,Teacher,Media,6-10 years,Microsoft Copilot,Writing,2,Regular,No,30,76,4.4
+AI10359,37,Male,Operations,,2-5 years,Gemini,Coding,1.2,Rare,No,19,51,4.1
+AI10360,18,Female,Software Developer,Other,0-1 years,ChatGPT,Coding,1.4,Occasional,Yes,0,52,2.6
+AI10361,38,Male,Marketing,Retail,2-5 years,ChatGPT,Coding,1.2,Regular,No,3,49,4.4
+AI10362,35,Male,HR,Manufacturing,0-1 years,Microsoft Copilot,Customer Support,2,Regular,Yes,44,51,2.2
+AI10363,52,Male,Data Analyst,Other,2-5 years,Microsoft Copilot,Customer Support,2.3,Occasional,No,25,61,2.7
+AI10364,48,Non-binary,HR,Manufacturing,2-5 years,Claude,Content Creation,6.6,Occasional,No,40,74,3.3
+AI10365,34,Male,Data Analyst,Finance,2-5 years,Gemini,Data Analysis,1.9,Rare,No,17,68,2.3
+AI10366,57,Female,Teacher,Media,6-10 years,Claude,Writing,0.9,Occasional,No,0,69,1.8
+AI10367,39,Male,Data Analyst,Other,10+ years,Claude,Writing,1.5,Regular,No,24,47,2.7
+AI10368,31,Female,Operations,Retail,6-10 years,Other,Coding,3.9,Regular,No,54,76,2.7
+AI10369,45,Male,HR,Media,2-5 years,ChatGPT,Research,1.4,Regular,No,2,85,3.9
+AI10370,37,Female,Software Developer,Finance,6-10 years,ChatGPT,Content Creation,0.3,Regular,No,0,52,2.3
+AI10371,59,Female,Teacher,Healthcare,0-1 years,Microsoft Copilot,Content Creation,1.5,Occasional,Yes,11,71,5
+AI10372,55,Female,HR,Media,2-5 years,Microsoft Copilot,Content Creation,1.1,Rare,No,9,65,1.8
+AI10373,18,Male,Marketing,Technology,0-1 years,Gemini,Writing,2.8,Occasional,No,22,61,3.5
+AI10374,28,Prefer not to say,HR,Media,10+ years,ChatGPT,Customer Support,2.9,Regular,No,27,52,3.6
+AI10375,35,Male,HR,Other,0-1 years,Claude,Coding,6.3,Regular,No,102,77,3.7
+AI10376,47,Female,Student,Other,2-5 years,ChatGPT,Data Analysis,1.3,Occasional,Yes,39,46,2.9
+AI10377,44,Male,Data Analyst,Technology,6-10 years,ChatGPT,Research,2,Regular,No,2,66,2.6
+AI10378,55,Male,HR,Education,2-5 years,ChatGPT,Coding,4.2,Regular,Yes,70,69,3.2
+AI10379,24,Female,Marketing,Finance,6-10 years,Gemini,Coding,1.2,Regular,No,4,63,3.9
+AI10380,45,Male,Software Developer,Retail,6-10 years,ChatGPT,Content Creation,1.1,Regular,No,8,54,2
+AI10381,57,Male,Finance,Retail,0-1 years,Microsoft Copilot,Content Creation,0.7,Regular,No,8,56,2.8
+AI10382,22,Female,Data Analyst,Education,2-5 years,ChatGPT,Data Analysis,4.1,Regular,Yes,39,76,4.5
+AI10383,46,Male,Operations,Manufacturing,10+ years,ChatGPT,Data Analysis,2.8,Rare,Yes,21,62,3.2
+AI10384,46,Female,Finance,Healthcare,0-1 years,ChatGPT,Content Creation,1.3,Occasional,No,5,55,3.4
+AI10385,19,Female,Student,Finance,2-5 years,ChatGPT,Writing,0.7,Regular,Yes,2,47,2.9
+AI10386,19,Prefer not to say,Marketing,Healthcare,0-1 years,ChatGPT,Learning,4,Occasional,No,28,73,3
+AI10387,20,Female,HR,Retail,2-5 years,Gemini,Customer Support,4.8,Regular,Yes,56,89,4.5
+AI10388,,Male,Finance,Technology,2-5 years,Microsoft Copilot,Data Analysis,1.1,Rare,No,15,71,2.8
+AI10389,47,Male,Finance,Media,0-1 years,ChatGPT,Coding,1.1,Occasional,No,2,47,2.8
+AI10390,56,Male,HR,Other,0-1 years,ChatGPT,Research,4.6,Regular,No,52,72,4.2
+AI10391,47,Female,Student,Finance,2-5 years,Other,Learning,0.9,Regular,Yes,7,71,2.6
+AI10392,48,Male,Marketing,Manufacturing,0-1 years,Microsoft Copilot,Coding,1.3,Regular,Yes,6,63,3.6
+AI10393,35,Female,Marketing,Education,0-1 years,ChatGPT,Learning,0.6,Regular,No,21,65,2.7
+AI10394,27,Prefer not to say,Operations,Healthcare,0-1 years,Gemini,Learning,1.9,Rare,Yes,12,74,1.7
+AI10395,41,Male,Finance,Retail,0-1 years,ChatGPT,Content Creation,4.6,Regular,No,85,75,2.5
+AI10396,47,Female,Data Analyst,Media,2-5 years,Microsoft Copilot,Content Creation,5.5,Regular,No,91,74,2.4
+AI10397,55,Prefer not to say,Teacher,Finance,10+ years,ChatGPT,Writing,4.6,Occasional,Yes,56,86,2.8
+AI10398,42,Male,Software Developer,Technology,2-5 years,Claude,Data Analysis,3.2,Regular,No,53,63,1.4
+AI10399,59,Male,Operations,Media,6-10 years,ChatGPT,Research,4.9,Regular,No,27,67,2.5
+AI10400,52,Male,Software Developer,Finance,0-1 years,ChatGPT,Content Creation,1.3,Occasional,Yes,2,65,3.4
+AI10401,58,Male,Teacher,Technology,2-5 years,Gemini,Learning,4.9,Regular,Yes,30,80,3.8
+AI10402,46,Female,Teacher,Media,10+ years,Microsoft Copilot,Writing,0.8,Regular,No,9,50,3.1
+AI10403,28,Male,HR,Education,10+ years,Gemini,Learning,2,Occasional,No,35,73,2
+AI10404,53,Female,HR,Manufacturing,0-1 years,ChatGPT,Content Creation,3,Regular,No,36,47,2.8
+AI10405,45,Female,Student,Healthcare,0-1 years,Microsoft Copilot,Data Analysis,3.1,Regular,No,19,75,2.5
+AI10406,49,Female,Data Analyst,Media,2-5 years,Microsoft Copilot,Coding,1.3,Occasional,Yes,26,74,2.9
+AI10407,30,Prefer not to say,Teacher,Media,0-1 years,Gemini,Data Analysis,2.5,Regular,No,25,72,3.4
+AI10408,21,Female,HR,Healthcare,10+ years,Microsoft Copilot,Coding,5.1,Regular,Yes,67,90,3.6
+AI10409,59,Female,Marketing,Technology,0-1 years,Microsoft Copilot,Customer Support,3.2,Regular,No,39,68,2.6
+AI10410,38,Female,Teacher,Technology,2-5 years,Microsoft Copilot,Learning,4.9,Occasional,No,77,67,2.2
+AI10411,43,Male,HR,Manufacturing,10+ years,ChatGPT,Research,0.6,Regular,No,21,83,1.4
+AI10412,20,Male,Teacher,Healthcare,10+ years,Other,Content Creation,0.4,Regular,No,8,74,3.1
+AI10413,55,Male,Finance,Media,2-5 years,Microsoft Copilot,Content Creation,0.7,Occasional,No,12,58,2.8
+AI10414,30,Male,Student,Manufacturing,2-5 years,ChatGPT,Writing,1.1,Regular,No,15,58,2.6
+AI10415,18,Male,Marketing,Other,2-5 years,Microsoft Copilot,Research,3.3,Occasional,No,17,67,3.5
+AI10416,30,Female,Data Analyst,Media,0-1 years,Microsoft Copilot,Data Analysis,2.9,Regular,Yes,37,72,3.9
+AI10417,24,Male,Teacher,Other,0-1 years,Microsoft Copilot,Research,0.1,Occasional,Yes,0,83,3.9
+AI10418,38,Male,Operations,Other,2-5 years,ChatGPT,Data Analysis,2.9,Occasional,No,56,73,3.3
+AI10419,46,Male,Data Analyst,Other,0-1 years,ChatGPT,Writing,3.3,Occasional,No,31,60,1.7
+AI10420,32,Female,Operations,Other,0-1 years,Microsoft Copilot,Content Creation,2.3,Occasional,Yes,37,65,3.2
+AI10421,25,Female,Software Developer,Healthcare,10+ years,Gemini,Data Analysis,1.9,Regular,No,29,62,4.5
+AI10422,27,Male,Data Analyst,Finance,0-1 years,Gemini,Customer Support,0.7,Regular,No,11,47,3.4
+AI10423,24,Female,Software Developer,Retail,6-10 years,Other,Learning,2.6,Rare,No,34,60,3.1
+AI10424,54,Male,Finance,Media,0-1 years,Gemini,Coding,1.1,Regular,Yes,21,67,2.3
+AI10425,40,Prefer not to say,Data Analyst,Technology,2-5 years,ChatGPT,Content Creation,4.6,Occasional,No,31,67,4.2
+AI10426,20,Non-binary,Software Developer,Other,0-1 years,,Research,1.6,Regular,Yes,21,49,3.3
+AI10427,35,Female,HR,Finance,2-5 years,Other,Coding,2.5,Occasional,No,34,79,3.1
+AI10428,37,Female,Marketing,Finance,2-5 years,ChatGPT,Data Analysis,2,Occasional,Yes,7,63,2.6
+AI10429,48,Female,HR,Healthcare,6-10 years,Claude,Research,1.7,Regular,Yes,17,75,3.2
+AI10430,45,Female,Student,Education,0-1 years,ChatGPT,Research,3,Regular,No,43,58,2.5
+AI10431,49,Female,Student,Healthcare,6-10 years,Microsoft Copilot,Data Analysis,4.3,Occasional,No,15,80,2.4
+AI10432,26,Male,Software Developer,Technology,2-5 years,Gemini,Content Creation,0.7,Regular,No,2,56,2.4
+AI10433,18,Male,Software Developer,Media,2-5 years,Gemini,Coding,2.8,Occasional,Yes,18,67,2.8
+AI10434,37,Female,Software Developer,Media,10+ years,ChatGPT,Data Analysis,5.4,Regular,No,65,81,3.8
+AI10435,31,Female,Marketing,Manufacturing,6-10 years,Gemini,Coding,1.4,Regular,Yes,13,57,2.8
+AI10436,32,Female,Operations,Media,2-5 years,Microsoft Copilot,Data Analysis,1.5,Occasional,Yes,32,76,4.7
+AI10437,56,Female,Marketing,Technology,0-1 years,ChatGPT,Learning,2.1,Regular,No,38,79,2.9
+AI10438,55,Female,Finance,Finance,2-5 years,ChatGPT,Writing,1.2,Regular,Yes,19,60,3.6
+AI10439,51,Female,Teacher,Other,10+ years,Microsoft Copilot,Content Creation,1.5,Occasional,Yes,21,58,4.3
+AI10440,20,Prefer not to say,Data Analyst,Other,6-10 years,ChatGPT,Learning,1.3,Regular,No,11,68,3.3
+AI10441,26,Female,Data Analyst,Finance,2-5 years,Microsoft Copilot,Writing,5,Regular,No,52,89,3.8
+AI10442,20,Female,Marketing,Technology,2-5 years,Gemini,Learning,3.8,Regular,No,59,64,2.4
+AI10443,29,Male,Finance,Education,6-10 years,Gemini,Research,2.1,Regular,No,30,70,3.5
+AI10444,38,Female,Marketing,Manufacturing,6-10 years,ChatGPT,Writing,2.4,Regular,No,29,75,3.4
+AI10445,30,Female,Student,Manufacturing,0-1 years,ChatGPT,Learning,1.3,Rare,No,33,51,2.5
+AI10446,48,Female,HR,Technology,0-1 years,ChatGPT,Content Creation,4,Regular,No,57,58,5
+AI10447,21,Male,Operations,Retail,2-5 years,ChatGPT,Data Analysis,1.1,Regular,No,22,65,2.7
+AI10448,55,Female,Finance,Media,10+ years,Gemini,Coding,3,Regular,No,47,81,3.9
+AI10449,23,Male,Operations,Finance,0-1 years,ChatGPT,Research,3.1,Regular,No,14,57,3.6
+AI10450,39,Male,Marketing,Education,2-5 years,ChatGPT,Writing,3.3,Rare,No,33,78,3.3
+AI10451,43,Female,Marketing,Technology,10+ years,ChatGPT,Research,1,Occasional,No,18,58,2.4
+AI10452,59,Female,Software Developer,Retail,2-5 years,Microsoft Copilot,Research,2.5,Regular,Yes,13,76,2.8
+AI10453,18,Female,Finance,Retail,0-1 years,ChatGPT,Coding,0.6,Regular,Yes,0,75,3.2
+AI10454,46,Male,Finance,Finance,2-5 years,Microsoft Copilot,Customer Support,2.9,Regular,Yes,50,67,2.3
+AI10455,54,Prefer not to say,Student,Retail,0-1 years,Gemini,Research,2.1,Regular,No,23,45,2.4
+AI10456,58,Female,Operations,Manufacturing,6-10 years,Gemini,Writing,0.6,Rare,Yes,0,55,2.6
+AI10457,51,Male,Data Analyst,Other,2-5 years,Microsoft Copilot,Customer Support,3.3,Regular,No,25,62,2.1
+AI10458,54,Male,Finance,Other,2-5 years,ChatGPT,Customer Support,1.8,Regular,Yes,29,74,3.4
+AI10459,18,Male,Software Developer,Manufacturing,0-1 years,ChatGPT,Data Analysis,2.7,Regular,Yes,34,64,2.6
+AI10460,56,Male,Operations,Finance,6-10 years,ChatGPT,Learning,1.8,Regular,Yes,8,57,3.9
+AI10461,32,Male,HR,Healthcare,2-5 years,Gemini,Content Creation,1.1,Occasional,No,9,55,3.7
+AI10462,19,Female,Student,Other,2-5 years,Claude,Research,2.7,Regular,Yes,26,82,1.7
+AI10463,18,Female,Student,Finance,2-5 years,Microsoft Copilot,Data Analysis,,Regular,No,5,48,4.8
+AI10464,55,Male,Data Analyst,Healthcare,6-10 years,ChatGPT,Learning,2.7,Occasional,No,34,70,3.4
+AI10465,34,Female,Teacher,Other,6-10 years,Gemini,Coding,0.8,Occasional,Yes,18,50,4.4
+AI10466,46,Non-binary,Teacher,Healthcare,0-1 years,Microsoft Copilot,Learning,2.7,Regular,No,26,92,3.6
+AI10467,41,Male,Finance,Media,6-10 years,Gemini,Research,1.1,Regular,No,18,38,2.8
+AI10468,24,Female,Finance,Technology,0-1 years,Microsoft Copilot,Coding,2.8,Occasional,Yes,29,76,2.7
+AI10469,57,Prefer not to say,HR,Healthcare,0-1 years,ChatGPT,Customer Support,3.7,Occasional,No,57,73,2.2
+AI10470,21,Male,Marketing,Education,2-5 years,Gemini,Learning,0.6,Regular,No,0,48,2.4
+AI10471,19,Female,Finance,Media,2-5 years,ChatGPT,Content Creation,0.5,Occasional,No,3,51,4.2
+AI10472,23,Male,Software Developer,Education,2-5 years,ChatGPT,Data Analysis,3,Regular,No,46,67,2.7
+AI10473,36,Female,Marketing,Media,0-1 years,ChatGPT,Writing,1.9,Regular,Yes,22,66,3.7
+AI10474,39,Non-binary,Software Developer,Media,6-10 years,ChatGPT,Data Analysis,1.1,Occasional,No,8,53,2.1
+AI10475,51,Female,HR,Technology,0-1 years,Gemini,Writing,2.5,Occasional,No,34,63,2.5
+AI10476,20,Male,HR,Education,0-1 years,Other,Writing,1.2,Regular,No,13,38,3.7
+AI10477,60,Male,HR,Other,2-5 years,Other,Content Creation,0.8,Regular,Yes,7,72,4.6
+AI10478,35,Male,Software Developer,Manufacturing,0-1 years,ChatGPT,Data Analysis,0.3,Regular,No,1,58,4.2
+AI10479,56,Male,Marketing,Retail,2-5 years,ChatGPT,Learning,4.2,Occasional,No,38,85,2.7
+AI10480,24,Female,Marketing,Retail,2-5 years,Gemini,Writing,4.6,Regular,No,75,66,3.4
+AI10481,33,Male,Finance,Media,0-1 years,Microsoft Copilot,Customer Support,4.2,Rare,No,59,66,1.7
+AI10482,19,Female,Teacher,Retail,0-1 years,Microsoft Copilot,Learning,3.8,Regular,No,57,68,3.7
+AI10483,37,Male,Student,Media,6-10 years,Gemini,Research,1.8,Occasional,No,0,60,2.8
+AI10484,22,Male,Operations,Healthcare,6-10 years,Gemini,Writing,6.4,Regular,No,93,90,3.2
+AI10485,36,Male,Teacher,Education,0-1 years,Other,Learning,1.3,Regular,Yes,18,71,1.6
+AI10486,21,Male,Operations,Education,10+ years,ChatGPT,Data Analysis,3.9,Regular,No,49,67,2.9
+AI10487,37,Prefer not to say,Software Developer,Media,6-10 years,Microsoft Copilot,Coding,3.3,Regular,Yes,49,72,3
+AI10488,56,Male,Marketing,Technology,0-1 years,ChatGPT,Learning,1.8,Rare,Yes,31,69,2.9
+AI10489,18,Female,Finance,Education,6-10 years,Gemini,Coding,5.9,Regular,No,84,91,3.7
+AI10490,46,Female,Data Analyst,Manufacturing,2-5 years,Claude,Content Creation,4.7,Regular,No,56,73,4.2
+AI10491,41,Male,Software Developer,Technology,0-1 years,Claude,Learning,3.3,Regular,No,52,66,2.4
+AI10492,45,Male,Student,Other,2-5 years,ChatGPT,Customer Support,2.3,Occasional,No,16,63,2.8
+AI10493,23,Female,Student,Finance,6-10 years,Claude,Content Creation,1.3,Regular,No,19,59,3
+AI10494,60,Female,Marketing,Healthcare,0-1 years,Gemini,Coding,1.5,Regular,No,27,78,3
+AI10495,48,Female,Software Developer,Healthcare,0-1 years,ChatGPT,Research,0.5,Regular,No,5,64,3.1
+AI10496,42,Female,Student,Healthcare,2-5 years,ChatGPT,Data Analysis,0.3,Regular,No,7,51,1.9
+AI10497,24,Female,Teacher,Retail,0-1 years,Gemini,Content Creation,1,Regular,Yes,8,43,3.1
+AI10498,58,Male,Student,Media,6-10 years,ChatGPT,Content Creation,3.9,Regular,Yes,26,99,4
+AI10499,27,Female,Data Analyst,Technology,0-1 years,ChatGPT,Customer Support,1.2,Regular,Yes,1,57,2.3
+AI10500,46,Female,Data Analyst,Education,0-1 years,Claude,Learning,3.1,Occasional,No,16,67,3.9
+AI10501,26,Female,Finance,Manufacturing,6-10 years,ChatGPT,Coding,0.8,Occasional,Yes,5,62,3.2
+AI10502,37,Male,Operations,Retail,0-1 years,Claude,Data Analysis,2.2,Occasional,No,28,70,2.6
+AI10503,19,Non-binary,Student,Healthcare,6-10 years,Gemini,Content Creation,5.8,Regular,No,63,82,2.6
+AI10504,48,Male,Data Analyst,Other,2-5 years,ChatGPT,Content Creation,1.2,Occasional,No,1,56,3.2
+AI10505,53,Female,Software Developer,Finance,2-5 years,Claude,Content Creation,0.7,Occasional,No,10,71,2.9
+AI10506,36,Male,Student,Healthcare,2-5 years,ChatGPT,Writing,3.4,Regular,Yes,44,65,2.5
+AI10507,53,Female,Student,Media,6-10 years,ChatGPT,Data Analysis,3.2,Occasional,Yes,30,88,3
+AI10508,26,Female,Operations,Finance,6-10 years,Other,Research,5.7,Regular,No,55,86,3.6
+AI10509,20,Female,Data Analyst,Other,2-5 years,Gemini,Learning,3.2,Regular,Yes,16,87,3.9
+AI10510,20,Female,Finance,Finance,6-10 years,Microsoft Copilot,Content Creation,2,Regular,Yes,24,83,2.1
+AI10511,19,Female,Operations,Manufacturing,10+ years,Microsoft Copilot,Learning,1.3,Regular,Yes,27,69,3
+AI10512,57,Male,HR,Retail,6-10 years,Microsoft Copilot,Learning,4.3,Rare,No,36,87,3.4
+AI10513,41,Female,Student,Media,2-5 years,ChatGPT,Coding,0.2,Regular,No,0,50,2.7
+AI10514,33,Male,Software Developer,Other,0-1 years,ChatGPT,Customer Support,2.5,Regular,No,38,79,2.3
+AI10515,28,Female,Student,Technology,0-1 years,Gemini,Data Analysis,4.1,Regular,No,77,68,4.9
+AI10516,54,Male,Operations,Manufacturing,2-5 years,Gemini,Research,1.8,Occasional,No,27,70,1.7
+AI10517,37,Male,Marketing,Healthcare,0-1 years,Microsoft Copilot,Content Creation,2.3,Regular,No,16,74,2.1
+AI10518,36,Male,Operations,Finance,2-5 years,Gemini,Customer Support,2.5,Regular,Yes,15,76,5
+AI10519,29,Female,Marketing,Media,0-1 years,Gemini,Research,4.7,Occasional,No,72,95,2.7
+AI10520,20,Male,Finance,Healthcare,2-5 years,Other,Customer Support,3.6,Regular,No,15,76,2.7
+AI10521,42,Female,Student,Technology,0-1 years,ChatGPT,Coding,3,Regular,Yes,47,51,3.7
+AI10522,41,Female,Operations,Manufacturing,2-5 years,ChatGPT,Writing,1,Regular,Yes,22,47,2.9
+AI10523,53,Male,Teacher,Other,0-1 years,Other,Content Creation,3.8,Occasional,No,29,63,2.9
+AI10524,21,Female,Finance,Manufacturing,2-5 years,Microsoft Copilot,Writing,3.6,Regular,No,55,56,2.5
+AI10525,55,Male,Data Analyst,Finance,0-1 years,Microsoft Copilot,Data Analysis,2.2,Regular,Yes,16,52,3.8
+AI10526,49,Female,Marketing,Education,10+ years,ChatGPT,Writing,3.7,Regular,No,59,69,3
+AI10527,49,Male,Marketing,Finance,2-5 years,Microsoft Copilot,Customer Support,0.8,Regular,No,0,60,3.5
+AI10528,34,Female,Teacher,Retail,0-1 years,Gemini,Content Creation,2.6,Regular,No,45,67,3.7
+AI10529,38,Prefer not to say,Software Developer,Finance,2-5 years,Gemini,Learning,3.8,Regular,No,13,82,3.7
+AI10530,,Prefer not to say,HR,Manufacturing,0-1 years,Gemini,Research,2.6,Occasional,No,6,66,2.4
+AI10531,34,Female,Teacher,Finance,2-5 years,ChatGPT,Research,5.3,Regular,No,75,73,2.5
+AI10532,22,Female,Data Analyst,Technology,0-1 years,ChatGPT,Research,1,Regular,Yes,11,54,3.3
+AI10533,32,Male,Teacher,Manufacturing,6-10 years,Gemini,Writing,1.8,Regular,No,2,61,2.8
+AI10534,19,Female,Finance,Media,0-1 years,ChatGPT,Writing,4.4,Occasional,Yes,21,75,4.3
+AI10535,24,Female,Data Analyst,Other,2-5 years,Claude,Customer Support,3.1,Regular,Yes,40,71,3.3
+AI10536,23,Male,Student,Technology,2-5 years,Microsoft Copilot,Data Analysis,1,Occasional,Yes,16,59,4
+AI10537,50,Male,Operations,Media,0-1 years,ChatGPT,Coding,1.4,Regular,Yes,2,55,3.1
+AI10538,58,Female,Operations,Education,10+ years,ChatGPT,Coding,0.1,Regular,No,5,62,3.1
+AI10539,32,Female,Student,Other,0-1 years,Other,Content Creation,1.7,Regular,Yes,27,63,3.5
+AI10540,29,Female,Finance,Retail,6-10 years,ChatGPT,Coding,5.4,Regular,No,78,71,1.8
+AI10541,51,Male,Student,Technology,2-5 years,Microsoft Copilot,Writing,3.8,Occasional,No,32,64,3.9
+AI10542,43,Prefer not to say,Student,Media,6-10 years,Gemini,Customer Support,1.6,Occasional,Yes,12,47,2.8
+AI10543,33,Female,Student,Media,0-1 years,Claude,Data Analysis,0.7,Occasional,Yes,2,54,2.7
+AI10544,34,Male,Operations,Retail,6-10 years,Gemini,Coding,4.6,Regular,No,84,79,2.1
+AI10545,59,Male,Finance,Healthcare,2-5 years,ChatGPT,Research,1,Regular,No,4,60,2.5
+AI10546,27,Male,Operations,Retail,0-1 years,Gemini,Data Analysis,8.7,Rare,Yes,80,100,2.5
+AI10547,39,Male,Teacher,Media,10+ years,Microsoft Copilot,Customer Support,0.6,Rare,Yes,8,77,2.6
+AI10548,24,Female,HR,Education,6-10 years,ChatGPT,Data Analysis,0.9,Rare,Yes,7,44,4
+AI10549,46,Female,Student,Education,6-10 years,ChatGPT,Data Analysis,0.9,Regular,No,2,53,2.6
+AI10550,43,Male,Marketing,Retail,0-1 years,ChatGPT,Coding,3,Occasional,Yes,48,70,3.2
+AI10551,28,Female,Finance,Media,2-5 years,Claude,Coding,3.3,Regular,No,54,72,2.8
+AI10552,37,Female,Finance,Retail,2-5 years,ChatGPT,Writing,0.6,Regular,No,6,58,4.1
+AI10553,21,Female,Data Analyst,Education,2-5 years,ChatGPT,Customer Support,4.8,Regular,No,18,80,3.1
+AI10554,59,Male,Student,Education,0-1 years,Claude,Research,2.2,Occasional,No,10,59,3.8
+AI10555,54,Male,Finance,Retail,0-1 years,Other,Content Creation,2.5,Regular,No,25,58,1.8
+AI10556,53,Male,Student,Media,10+ years,Microsoft Copilot,Coding,2.3,Regular,No,33,77,2.5
+AI10557,31,Prefer not to say,Operations,Retail,0-1 years,ChatGPT,Content Creation,0.4,Regular,Yes,0,76,3.2
+AI10558,53,Female,Software Developer,Technology,0-1 years,Gemini,Content Creation,1.8,Regular,No,19,75,3.1
+AI10559,29,Male,Operations,Finance,0-1 years,Claude,Coding,2.5,Occasional,No,23,85,2.4
+AI10560,20,Female,Marketing,Healthcare,2-5 years,Microsoft Copilot,Content Creation,2.3,Occasional,No,15,59,1.8
+AI10561,25,Male,Marketing,Technology,0-1 years,Claude,Research,3.1,Regular,No,41,78,3.4
+AI10562,37,Male,Teacher,Healthcare,0-1 years,ChatGPT,Research,2.5,Regular,Yes,37,69,3.1
+AI10563,40,Female,Operations,Technology,0-1 years,Other,Writing,5.8,Rare,No,41,77,4.3
+AI10564,18,Male,Data Analyst,Manufacturing,2-5 years,ChatGPT,Content Creation,1.8,Regular,Yes,9,96,4.7
+AI10565,57,Non-binary,Marketing,Manufacturing,6-10 years,Gemini,Content Creation,2.2,Rare,Yes,26,52,3.7
+AI10566,54,Male,Student,Media,10+ years,Claude,Coding,5.9,Occasional,No,58,80,3.2
+AI10567,35,Male,HR,Technology,0-1 years,Claude,Learning,2.8,Regular,No,33,70,3.6
+AI10568,29,Female,HR,Media,2-5 years,Gemini,Writing,2.5,Regular,Yes,18,80,2.8
+AI10569,44,Female,Data Analyst,Media,6-10 years,Gemini,Writing,4,Occasional,Yes,39,86,2.8
+AI10570,36,Male,Operations,Technology,0-1 years,Gemini,Research,1,Occasional,No,8,49,2.6
+AI10571,45,Female,Operations,Other,6-10 years,Gemini,Coding,1.3,Rare,Yes,11,71,3.4
+AI10572,28,Female,Operations,Technology,10+ years,ChatGPT,Writing,1.8,Occasional,Yes,1,69,3.4
+AI10573,29,Female,Teacher,Finance,0-1 years,Gemini,Coding,2.7,Regular,Yes,41,90,3.7
+AI10574,21,Female,HR,Healthcare,10+ years,Microsoft Copilot,Research,3.1,Regular,Yes,48,81,3.8
+AI10575,44,Female,Software Developer,Media,2-5 years,Microsoft Copilot,Content Creation,1.7,Regular,No,2,69,1.5
+AI10576,59,Female,Operations,Finance,2-5 years,ChatGPT,Coding,5.3,Regular,No,46,74,2.9
+AI10577,56,Female,Software Developer,Media,0-1 years,Gemini,Writing,0.7,Regular,No,11,64,3.8
+AI10578,42,Female,Finance,Manufacturing,6-10 years,Gemini,Content Creation,2,Occasional,No,28,56,2
+AI10579,23,Female,HR,Retail,2-5 years,Microsoft Copilot,Coding,0.4,Regular,No,0,58,2.1
+AI10580,37,Prefer not to say,Teacher,Retail,0-1 years,ChatGPT,Content Creation,0.8,Occasional,Yes,1,79,3.1
+AI10581,36,Non-binary,Software Developer,Healthcare,6-10 years,Claude,Learning,0.7,Regular,Yes,15,52,2.3
+AI10582,51,Male,Marketing,Healthcare,2-5 years,Gemini,Learning,2.3,Regular,No,41,53,2
+AI10583,29,Female,Marketing,Finance,6-10 years,Gemini,Data Analysis,3.3,Regular,No,54,61,2.2
+AI10584,39,Male,Software Developer,Retail,2-5 years,ChatGPT,Learning,2.9,Occasional,Yes,18,73,3.3
+AI10585,39,Male,Software Developer,Education,0-1 years,Microsoft Copilot,Coding,3.4,Occasional,Yes,38,67,3.1
+AI10586,54,Male,Operations,Healthcare,0-1 years,Gemini,Data Analysis,3.2,Occasional,No,32,73,3.5
+AI10587,58,Male,Data Analyst,Healthcare,6-10 years,ChatGPT,Writing,,Rare,No,53,73,1.8
+AI10588,52,Female,Marketing,Media,6-10 years,ChatGPT,Coding,0.9,Occasional,No,22,58,2.8
+AI10589,31,Male,Data Analyst,Other,0-1 years,Microsoft Copilot,Customer Support,3.5,Rare,No,43,68,1.5
+AI10590,18,Male,HR,Manufacturing,0-1 years,Gemini,Coding,5,Rare,No,47,67,3
+AI10591,44,Female,Teacher,Technology,2-5 years,Other,Content Creation,9.6,Rare,Yes,159,100,2.7
+AI10592,39,Male,Marketing,Media,0-1 years,ChatGPT,Customer Support,0.7,Regular,No,1,51,3
+AI10593,58,Female,Student,Media,2-5 years,Claude,Data Analysis,5.7,Regular,No,43,79,4
+AI10594,19,Male,Student,Other,2-5 years,ChatGPT,Data Analysis,2.2,Regular,No,41,63,4.2
+AI10595,45,Male,Software Developer,Retail,2-5 years,Microsoft Copilot,Coding,2.9,Rare,No,37,56,1.6
+AI10596,34,Male,Data Analyst,Manufacturing,0-1 years,ChatGPT,Data Analysis,1.7,Regular,No,11,53,2.3
+AI10597,40,Female,Data Analyst,Finance,2-5 years,Microsoft Copilot,Coding,3.7,Occasional,Yes,17,100,3.5
+AI10598,33,Female,Finance,Manufacturing,6-10 years,Gemini,Coding,2.4,Regular,Yes,16,83,2.6
+AI10599,21,Prefer not to say,Finance,Retail,2-5 years,ChatGPT,Writing,5.1,Regular,No,20,82,3.5
+AI10600,52,Female,HR,Media,6-10 years,Claude,Writing,1.4,Regular,No,5,56,3.1
+AI10601,18,Female,Operations,Education,10+ years,Gemini,Customer Support,4.2,Occasional,No,34,77,3.3
+AI10602,27,Male,HR,Manufacturing,6-10 years,Other,Customer Support,2.2,Occasional,Yes,26,78,3.2
+AI10603,48,Male,Marketing,Retail,0-1 years,ChatGPT,Writing,5,Regular,No,48,78,4.3
+AI10604,43,Female,Software Developer,Other,10+ years,ChatGPT,Customer Support,0.6,Occasional,Yes,14,54,4.3
+AI10605,42,Female,Teacher,Other,2-5 years,Microsoft Copilot,Coding,2.8,Rare,Yes,26,70,3.2
+AI10606,38,Male,Student,Healthcare,6-10 years,ChatGPT,Content Creation,2.6,Regular,No,8,71,3.1
+AI10607,34,Male,HR,Retail,6-10 years,Gemini,Customer Support,5.8,Occasional,No,46,72,2.2
+AI10608,53,Male,Finance,Finance,10+ years,ChatGPT,Learning,2.5,Rare,No,33,76,2.5
+AI10609,43,Male,Marketing,Education,2-5 years,Microsoft Copilot,Learning,3.9,Regular,Yes,19,58,3.3
+AI10610,52,Male,Data Analyst,Education,0-1 years,Gemini,Customer Support,0.7,Regular,No,1,44,3
+AI10611,,Female,Software Developer,Education,2-5 years,Gemini,Coding,2.1,Regular,No,38,71,2
+AI10612,20,Male,Software Developer,Other,6-10 years,Microsoft Copilot,Data Analysis,1.2,Regular,Yes,29,58,2.9
+AI10613,43,Male,Student,Healthcare,0-1 years,Other,Data Analysis,2,Rare,No,13,59,2.4
+AI10614,52,Non-binary,Finance,Education,0-1 years,ChatGPT,Writing,0.7,Regular,No,18,39,2.7
+AI10615,46,Male,Finance,Finance,0-1 years,ChatGPT,Customer Support,3,Regular,No,45,71,2
+AI10616,24,Female,Marketing,Other,2-5 years,Claude,Customer Support,3.4,Regular,No,74,75,4.2
+AI10617,47,Female,Operations,Manufacturing,10+ years,Gemini,Writing,2.1,Regular,Yes,18,90,1.6
+AI10618,46,Female,Marketing,Finance,0-1 years,Microsoft Copilot,Research,1.6,Rare,No,28,44,3.4
+AI10619,20,Male,Student,Finance,6-10 years,Gemini,Writing,2.2,Occasional,No,33,58,4
+AI10620,20,Male,Student,,2-5 years,ChatGPT,Coding,3.5,Occasional,No,47,89,4.8
+AI10621,45,Female,Software Developer,,2-5 years,Microsoft Copilot,Writing,2.8,Regular,No,51,67,3
+AI10622,21,Male,Data Analyst,Technology,6-10 years,Microsoft Copilot,Research,2.3,Occasional,No,53,66,2.4
+AI10623,58,Female,Teacher,Manufacturing,10+ years,Microsoft Copilot,Research,0.8,Occasional,No,5,65,3.2
+AI10624,58,Male,Teacher,Technology,10+ years,Gemini,Content Creation,4,Regular,No,23,67,3.9
+AI10625,30,Female,Operations,Manufacturing,2-5 years,ChatGPT,Customer Support,3.3,Rare,No,24,69,2.8
+AI10626,54,Female,Finance,Media,0-1 years,Gemini,Learning,1.7,Regular,No,16,61,3.2
+AI10627,26,Female,Marketing,Retail,10+ years,Microsoft Copilot,Coding,3.4,Occasional,No,46,83,3.1
+AI10628,37,Female,Operations,Healthcare,6-10 years,Claude,Writing,0.7,Regular,No,6,56,2.5
+AI10629,22,Male,HR,Retail,10+ years,ChatGPT,Writing,1.1,Regular,No,4,63,4.4
+AI10630,26,Male,Teacher,Healthcare,0-1 years,Microsoft Copilot,Learning,6,Regular,Yes,66,85,3.3
+AI10631,48,Prefer not to say,Data Analyst,Retail,6-10 years,ChatGPT,Coding,4.1,Regular,No,26,68,4.2
+AI10632,27,Male,Data Analyst,Technology,10+ years,Gemini,Coding,1.2,Regular,Yes,3,57,3.8
+AI10633,27,Female,Student,Media,0-1 years,ChatGPT,Coding,4.6,Occasional,No,49,76,3.2
+AI10634,30,Male,Marketing,Technology,2-5 years,Other,Coding,2,Regular,No,0,65,1.8
+AI10635,27,Male,Teacher,Finance,0-1 years,ChatGPT,Content Creation,1.3,Regular,No,20,64,3
+AI10636,33,Prefer not to say,Finance,Media,0-1 years,ChatGPT,Customer Support,7.8,Regular,No,64,98,1.9
+AI10637,36,Male,Finance,Retail,0-1 years,ChatGPT,Content Creation,0.9,Occasional,Yes,0,61,3.5
+AI10638,20,Male,Student,Retail,2-5 years,ChatGPT,Writing,3.1,Regular,Yes,26,77,4.3
+AI10639,57,Female,Data Analyst,,2-5 years,Microsoft Copilot,Data Analysis,0.7,Regular,Yes,15,66,4.1
+AI10640,31,Male,Student,Media,2-5 years,Claude,Research,1.1,Occasional,No,7,51,2.2
+AI10641,36,Female,Software Developer,Education,2-5 years,Microsoft Copilot,Learning,3.6,Regular,No,65,86,4.5
+AI10642,20,Female,Teacher,Finance,2-5 years,Claude,Data Analysis,0.7,Rare,Yes,12,74,1.6
+AI10643,38,Female,HR,Manufacturing,0-1 years,ChatGPT,Customer Support,1.9,Occasional,No,19,55,2.6
+AI10644,20,Female,Teacher,Healthcare,2-5 years,,Content Creation,0.3,Occasional,No,5,57,2.7
+AI10645,30,Female,Software Developer,Healthcare,10+ years,ChatGPT,Research,3.7,Regular,No,37,57,3.9
+AI10646,55,Female,Marketing,Other,2-5 years,Microsoft Copilot,Writing,2.6,Occasional,Yes,10,70,1.8
+AI10647,23,Female,Operations,Other,10+ years,ChatGPT,Learning,0.5,Regular,No,0,55,3.6
+AI10648,47,Male,HR,Other,6-10 years,ChatGPT,Data Analysis,1.6,Rare,Yes,22,74,3.3
+AI10649,50,Male,HR,Education,10+ years,Gemini,Research,1.3,Occasional,No,14,47,3.9
+AI10650,50,Male,Finance,Retail,2-5 years,Microsoft Copilot,Research,1.1,Occasional,No,9,49,3.5
+AI10651,22,Male,Student,Technology,6-10 years,ChatGPT,Learning,2.3,Occasional,No,29,54,3
+AI10652,47,Male,HR,Manufacturing,2-5 years,ChatGPT,Content Creation,1.3,Regular,Yes,0,53,2.5
+AI10653,59,Male,Software Developer,Technology,2-5 years,ChatGPT,Writing,4.7,Regular,No,21,69,3
+AI10654,31,Female,Software Developer,Education,0-1 years,ChatGPT,Research,2.1,Rare,Yes,13,73,4.1
+AI10655,52,Male,HR,Manufacturing,6-10 years,ChatGPT,Customer Support,0.6,Rare,No,2,66,2.1
+AI10656,46,Male,Marketing,Finance,0-1 years,ChatGPT,Learning,0.3,Regular,No,0,49,2.5
+AI10657,55,Male,Data Analyst,Other,6-10 years,Other,Writing,0.7,Occasional,No,17,60,3
+AI10658,55,Female,Operations,Retail,6-10 years,Microsoft Copilot,Coding,2.4,Occasional,No,33,66,4.9
+AI10659,27,Female,Marketing,Education,6-10 years,Gemini,Learning,4.8,Regular,No,70,63,1.4
+AI10660,57,Female,Teacher,Healthcare,0-1 years,Claude,Research,1.4,Regular,No,21,72,3.5
+AI10661,38,Female,Marketing,Media,10+ years,Gemini,Coding,0.4,Regular,No,6,43,3.1
+AI10662,35,Female,Software Developer,Finance,2-5 years,Gemini,Content Creation,0.2,Rare,Yes,15,74,4.7
+AI10663,18,Female,Teacher,Manufacturing,2-5 years,Claude,Research,3.1,Occasional,Yes,40,59,4
+AI10664,55,Female,Operations,Manufacturing,6-10 years,Claude,Research,1.5,Regular,Yes,17,73,3.5
+AI10665,19,Prefer not to say,Software Developer,Finance,0-1 years,Gemini,Learning,2.3,Regular,Yes,31,60,3.5
+AI10666,50,Female,Marketing,Technology,2-5 years,ChatGPT,Research,1.4,Regular,No,33,59,3.3
+AI10667,58,Female,Finance,Manufacturing,2-5 years,Gemini,Writing,3.4,Occasional,No,26,67,2.5
+AI10668,27,Female,HR,Other,0-1 years,ChatGPT,Coding,3.8,Regular,No,70,66,3.6
+AI10669,18,Male,Finance,Healthcare,6-10 years,Other,Content Creation,2.2,Occasional,No,33,71,3.3
+AI10670,42,Male,HR,Technology,2-5 years,ChatGPT,Writing,2.7,Occasional,No,29,71,1.9
+AI10671,56,Male,Teacher,Retail,0-1 years,Microsoft Copilot,Data Analysis,1.3,Rare,No,27,75,2.8
+AI10672,30,Female,Marketing,Manufacturing,0-1 years,ChatGPT,Customer Support,4.4,Regular,No,67,65,4.3
+AI10673,47,Female,Teacher,Retail,10+ years,Gemini,Research,1.6,Rare,Yes,24,47,3.6
+AI10674,26,Male,Teacher,Healthcare,0-1 years,Other,Content Creation,0.8,Rare,Yes,7,74,3.9
+AI10675,32,Female,Operations,Technology,2-5 years,Claude,Learning,5.2,Regular,No,87,76,3.7
+AI10676,39,Male,Marketing,Manufacturing,0-1 years,Gemini,Writing,3.8,Regular,Yes,60,75,3.5
+AI10677,38,Female,Teacher,Retail,0-1 years,Other,Learning,1.9,Regular,No,30,74,2.7
+AI10678,44,Male,Operations,Healthcare,6-10 years,Gemini,Learning,2.9,Regular,No,20,70,2.7
+AI10679,22,Female,Operations,Manufacturing,2-5 years,Microsoft Copilot,Learning,0.1,Regular,Yes,7,52,3.5
+AI10680,19,Prefer not to say,Operations,,2-5 years,Gemini,Data Analysis,2.5,Occasional,No,9,73,3.2
+AI10681,,Male,Marketing,Technology,10+ years,Gemini,Customer Support,3.3,Regular,No,46,79,3.5
+AI10682,31,Female,Operations,Manufacturing,6-10 years,ChatGPT,Research,3.9,Regular,Yes,47,64,4.2
+AI10683,49,Male,Marketing,Finance,0-1 years,ChatGPT,Customer Support,1.8,Regular,Yes,15,67,3.6
+AI10684,34,Female,Operations,Other,2-5 years,ChatGPT,Data Analysis,1.5,Occasional,No,18,51,4
+AI10685,51,Male,Teacher,Finance,6-10 years,ChatGPT,Data Analysis,3.1,Regular,No,22,83,2.1
+AI10686,27,Female,Data Analyst,Manufacturing,2-5 years,ChatGPT,Data Analysis,1.6,Rare,Yes,3,83,4.7
+AI10687,,Female,Data Analyst,Technology,10+ years,Microsoft Copilot,Writing,2.1,Regular,No,23,72,3
+AI10688,48,Female,HR,Education,10+ years,Claude,Writing,0.4,Occasional,No,5,62,3.2
+AI10689,39,Female,Data Analyst,Other,2-5 years,ChatGPT,Writing,4.5,Regular,Yes,61,81,3.9
+AI10690,27,Male,HR,Education,2-5 years,Microsoft Copilot,Research,2.4,Rare,No,15,54,4
+AI10691,45,Female,Teacher,Education,2-5 years,Claude,Writing,2.4,Rare,No,46,69,3.3
+AI10692,43,Male,Finance,Technology,2-5 years,Gemini,Customer Support,4.3,Occasional,Yes,75,89,3.4
+AI10693,35,Male,Teacher,Education,0-1 years,Other,Writing,3.3,Rare,No,48,75,2.9
+AI10694,53,Female,Finance,Finance,2-5 years,Claude,Learning,1.4,Regular,No,18,66,4.3
+AI10695,56,Female,Finance,Media,6-10 years,ChatGPT,Research,0.5,Occasional,No,3,57,2.8
+AI10696,57,Female,Data Analyst,Technology,2-5 years,Gemini,Coding,3.7,Regular,No,49,58,3.1
+AI10697,32,Female,Finance,Other,2-5 years,Other,Content Creation,0.6,Regular,Yes,4,65,2.3
+AI10698,25,Female,Data Analyst,Other,0-1 years,Microsoft Copilot,Research,2.2,Regular,No,19,93,2.9
+AI10699,35,Female,Finance,Healthcare,6-10 years,ChatGPT,Customer Support,2.2,Regular,Yes,30,59,4.3
+AI10700,27,Male,Teacher,Finance,0-1 years,Gemini,Customer Support,1.1,Occasional,Yes,21,56,3.1
+AI10701,38,Female,Teacher,Education,0-1 years,ChatGPT,Content Creation,3.5,Occasional,Yes,16,63,3.5
+AI10702,29,Female,Data Analyst,Healthcare,6-10 years,ChatGPT,Content Creation,3.3,Regular,No,53,66,2.9
+AI10703,58,Female,Teacher,Retail,6-10 years,Microsoft Copilot,Writing,3.7,Occasional,No,49,85,2.9
+AI10704,32,Male,HR,Technology,0-1 years,ChatGPT,Content Creation,1.1,Occasional,Yes,2,67,3.5
+AI10705,39,Male,Data Analyst,Other,6-10 years,Microsoft Copilot,Research,2.8,Occasional,No,32,81,2.1
+AI10706,30,Male,Student,Finance,6-10 years,Gemini,Learning,2.3,Regular,No,10,63,3.2
+AI10707,27,Female,HR,Retail,2-5 years,Gemini,Coding,2.3,Regular,No,41,62,4.7
+AI10708,48,Female,Marketing,Retail,0-1 years,ChatGPT,Research,2.5,Occasional,No,18,84,2.7
+AI10709,33,Female,Marketing,Manufacturing,0-1 years,Gemini,Data Analysis,0.8,Regular,No,3,72,2.6
+AI10710,38,Female,Student,Healthcare,2-5 years,Other,Data Analysis,2.2,Regular,Yes,51,59,1.7
+AI10711,55,Female,Data Analyst,Media,2-5 years,Microsoft Copilot,Writing,0.2,Rare,No,4,66,1.3
+AI10712,20,Male,HR,Education,0-1 years,Claude,Data Analysis,0.8,Regular,No,11,53,2.5
+AI10713,25,Male,HR,Manufacturing,2-5 years,Claude,Content Creation,1.7,Occasional,Yes,9,56,3.8
+AI10714,26,Female,Software Developer,Manufacturing,0-1 years,Microsoft Copilot,Writing,1,Occasional,No,13,64,2.2
+AI10715,25,Female,Software Developer,Media,6-10 years,ChatGPT,Data Analysis,3.3,Regular,No,36,57,2.2
+AI10716,28,Male,Marketing,Other,6-10 years,Microsoft Copilot,Research,1.1,Occasional,No,3,65,3
+AI10717,19,Prefer not to say,Software Developer,Other,6-10 years,Gemini,Coding,6.9,Regular,No,120,94,4.3
+AI10718,51,Male,Software Developer,Technology,0-1 years,Microsoft Copilot,Customer Support,2.6,Regular,Yes,16,65,2.8
+AI10719,45,Female,Software Developer,Finance,0-1 years,Gemini,Research,1.7,Occasional,No,14,72,1.9
+AI10720,23,Male,Finance,Technology,2-5 years,ChatGPT,Research,1.2,Regular,Yes,21,55,3.6
+AI10721,52,Male,Finance,Education,2-5 years,Gemini,Learning,2.4,Rare,Yes,6,74,2.8
+AI10722,22,Male,HR,Media,2-5 years,ChatGPT,Content Creation,1.3,Rare,No,5,63,3.8
+AI10723,26,Female,Data Analyst,Other,2-5 years,Microsoft Copilot,Coding,3.3,Regular,No,56,71,3.6
+AI10724,45,Prefer not to say,Data Analyst,Healthcare,2-5 years,Gemini,Data Analysis,1.9,Regular,No,27,62,2.7
+AI10725,52,Female,Software Developer,,0-1 years,Claude,Content Creation,4.4,Occasional,No,32,81,4.1
+AI10726,21,Prefer not to say,Teacher,Education,0-1 years,ChatGPT,Research,0.4,Occasional,No,7,61,4.5
+AI10727,18,Female,Teacher,Media,2-5 years,,Customer Support,0.8,Regular,Yes,3,55,3.7
+AI10728,48,Female,Teacher,Education,0-1 years,ChatGPT,Coding,1.7,Rare,Yes,18,76,1.9
+AI10729,53,Male,Marketing,Manufacturing,6-10 years,ChatGPT,Learning,3.7,Regular,No,18,86,1.9
+AI10730,25,Male,Operations,Other,0-1 years,ChatGPT,Customer Support,1.2,Occasional,Yes,17,55,3.7
+AI10731,46,Male,Finance,Healthcare,2-5 years,ChatGPT,Research,7,Regular,No,106,60,4.4
+AI10732,45,Male,Marketing,Manufacturing,2-5 years,ChatGPT,Writing,2,Rare,No,11,71,2.8
+AI10733,19,Female,Finance,Media,0-1 years,Gemini,Content Creation,4.9,Regular,No,64,87,2.8
+AI10734,32,Female,Teacher,Retail,2-5 years,Gemini,Writing,4.3,Regular,No,56,63,3.9
+AI10735,18,Male,Marketing,Healthcare,6-10 years,ChatGPT,Content Creation,3.8,Regular,No,71,90,4
+AI10736,21,Female,Student,Technology,2-5 years,ChatGPT,Coding,1.1,Occasional,No,3,54,3.6
+AI10737,28,Female,Software Developer,Manufacturing,2-5 years,ChatGPT,Data Analysis,9.2,Regular,Yes,135,100,3.8
+AI10738,48,Male,Operations,Other,6-10 years,Microsoft Copilot,Writing,4.3,Rare,Yes,47,89,3.3
+AI10739,43,Male,Marketing,Healthcare,2-5 years,ChatGPT,Writing,0.5,Rare,Yes,7,76,2
+AI10740,18,Female,Data Analyst,Healthcare,0-1 years,Claude,Research,0.9,Occasional,No,13,60,2.8
+AI10741,60,Male,Operations,Technology,2-5 years,ChatGPT,Learning,7,Regular,No,100,100,3.8
+AI10742,50,Male,Software Developer,Finance,10+ years,Microsoft Copilot,Content Creation,2.8,Occasional,No,5,61,4.5
+AI10743,18,Male,Software Developer,Manufacturing,2-5 years,Microsoft Copilot,Coding,2.7,Regular,No,42,76,2
+AI10744,56,Female,Student,Media,0-1 years,Microsoft Copilot,Customer Support,2.5,Regular,No,19,74,2
+AI10745,60,Female,Operations,Other,6-10 years,Gemini,Content Creation,5.7,Regular,No,33,79,3.7
+AI10746,27,Male,Teacher,Media,2-5 years,ChatGPT,Learning,5,Regular,Yes,71,84,3.4
+AI10747,36,Female,Marketing,Retail,0-1 years,ChatGPT,Data Analysis,3.9,Regular,No,39,67,2.3
+AI10748,38,Female,Marketing,Education,2-5 years,ChatGPT,Customer Support,0.8,Regular,No,17,72,4.6
+AI10749,45,Male,Software Developer,Technology,2-5 years,Gemini,Learning,0.7,Occasional,No,9,49,2.2
+AI10750,48,Male,Operations,Retail,6-10 years,Claude,Writing,0.2,Regular,No,0,59,3.3
+AI10751,48,Male,Operations,Manufacturing,2-5 years,ChatGPT,Customer Support,6.4,Occasional,No,60,58,3.5
+AI10752,30,Female,Data Analyst,Finance,10+ years,Claude,Customer Support,1,Occasional,Yes,1,76,4.4
+AI10753,31,Male,Data Analyst,Retail,2-5 years,ChatGPT,Coding,1.3,Rare,No,16,58,2.5
+AI10754,43,Male,Operations,Other,6-10 years,Other,Data Analysis,3.1,Regular,No,23,69,2.9
+AI10755,28,Female,Data Analyst,Manufacturing,6-10 years,Claude,Learning,1.3,Rare,No,17,58,3.1
+AI10756,19,Prefer not to say,Software Developer,Finance,10+ years,ChatGPT,Writing,1.2,Regular,No,5,63,1.9
+AI10757,36,Female,Teacher,Other,6-10 years,Microsoft Copilot,Learning,1.7,Occasional,No,30,61,2.9
+AI10758,31,Male,Data Analyst,Finance,10+ years,Claude,Coding,3.3,Occasional,Yes,50,88,3.2
+AI10759,50,Female,Teacher,,0-1 years,ChatGPT,Learning,2,Regular,No,9,74,4
+AI10760,30,Prefer not to say,HR,Manufacturing,0-1 years,Gemini,Coding,4.7,Regular,No,59,66,3.6
+AI10761,60,Male,Data Analyst,Manufacturing,2-5 years,Microsoft Copilot,Writing,7,Occasional,Yes,70,68,3.1
+AI10762,46,Male,Student,Other,6-10 years,Gemini,Content Creation,2.1,Regular,Yes,24,83,3
+AI10763,50,Female,Data Analyst,Education,2-5 years,Microsoft Copilot,Writing,0.9,Rare,No,19,61,2.9
+AI10764,44,Male,Finance,Manufacturing,6-10 years,ChatGPT,Content Creation,0.8,Occasional,Yes,13,59,2.3
+AI10765,57,Female,Operations,Other,0-1 years,Other,Writing,1.1,Rare,Yes,22,72,2.9
+AI10766,47,Male,Marketing,Retail,2-5 years,ChatGPT,Writing,0.7,Occasional,Yes,18,42,4.2
+AI10767,57,Female,Data Analyst,Media,0-1 years,ChatGPT,Coding,3.9,Rare,No,41,66,3.4
+AI10768,55,Female,Student,Education,2-5 years,Microsoft Copilot,Research,2.6,Occasional,Yes,16,78,3.8
+AI10769,49,Male,Data Analyst,Education,10+ years,ChatGPT,Customer Support,2.8,Occasional,Yes,50,63,2.6
+AI10770,58,Male,Marketing,Finance,0-1 years,Other,Customer Support,2.5,Regular,No,27,51,3.4
+AI10771,19,Male,Marketing,Other,2-5 years,ChatGPT,Writing,1.4,Regular,No,31,57,3
+AI10772,22,Male,Software Developer,Media,10+ years,ChatGPT,Research,2.2,Regular,No,39,63,2.8
+AI10773,48,Female,Finance,Manufacturing,6-10 years,Microsoft Copilot,Research,2.3,Regular,Yes,28,69,3.5
+AI10774,45,Male,Data Analyst,Technology,0-1 years,Microsoft Copilot,Content Creation,0.4,Regular,No,0,68,2.9
+AI10775,22,Non-binary,Software Developer,Other,2-5 years,ChatGPT,Research,3.6,Regular,Yes,29,80,2.8
+AI10776,32,Male,Operations,Other,6-10 years,ChatGPT,Content Creation,6.4,Occasional,No,96,78,4.7
+AI10777,45,Prefer not to say,Finance,Healthcare,0-1 years,ChatGPT,Learning,,Regular,No,60,72,2.7
+AI10778,31,Female,Finance,Other,0-1 years,ChatGPT,Data Analysis,6.2,Regular,Yes,75,89,3.7
+AI10779,56,Prefer not to say,Finance,Technology,6-10 years,Claude,Learning,0.7,Rare,No,6,72,1.3
+AI10780,53,Female,Data Analyst,Manufacturing,10+ years,Claude,Research,5.3,Occasional,No,57,85,4.5
+AI10781,28,Female,Finance,Retail,0-1 years,Gemini,Content Creation,3.2,Regular,No,32,91,2.7
+AI10782,40,Female,Teacher,Finance,0-1 years,Other,Customer Support,3.1,Regular,No,24,74,1.8
+AI10783,38,Male,Student,Technology,0-1 years,ChatGPT,Coding,3.1,Occasional,No,35,66,2.2
+AI10784,37,Male,Software Developer,Other,6-10 years,Gemini,Content Creation,1.8,Occasional,No,36,61,2.8
+AI10785,46,Prefer not to say,Software Developer,Media,2-5 years,ChatGPT,Research,2.2,Regular,No,5,51,3.1
+AI10786,26,Male,Finance,Media,0-1 years,ChatGPT,Customer Support,2,Occasional,No,22,55,2.9
+AI10787,35,Male,Operations,Finance,0-1 years,ChatGPT,Data Analysis,0.4,Occasional,No,10,59,2.7
+AI10788,49,Male,Marketing,Manufacturing,0-1 years,ChatGPT,Learning,1.9,Occasional,Yes,28,78,3.2
+AI10789,29,Male,Student,Other,10+ years,ChatGPT,Research,2.7,Regular,No,20,59,4.5
+AI10790,55,Female,HR,Technology,6-10 years,Other,Learning,5,Regular,No,63,66,3.2
+AI10791,20,Male,Software Developer,Media,2-5 years,ChatGPT,Research,5.9,Regular,Yes,93,91,2.5
+AI10792,46,Male,HR,Retail,6-10 years,Claude,Research,4.6,Occasional,Yes,33,70,2.3
+AI10793,46,Female,Data Analyst,Healthcare,10+ years,Claude,Customer Support,1.5,Regular,Yes,21,88,3.9
+AI10794,49,Female,Software Developer,Media,2-5 years,Gemini,Customer Support,3.9,Occasional,No,39,85,2.7
+AI10795,45,Female,Marketing,Retail,2-5 years,Gemini,Research,0.3,Rare,Yes,6,66,3.4
+AI10796,22,Female,Teacher,Technology,0-1 years,Microsoft Copilot,Coding,2.6,Regular,Yes,10,70,3.3
+AI10797,31,Female,Finance,Manufacturing,0-1 years,ChatGPT,Writing,3.5,Rare,Yes,34,75,3.5
+AI10798,31,Female,Finance,Finance,0-1 years,ChatGPT,Content Creation,0.6,Occasional,No,17,62,3.5
+AI10799,29,Male,HR,Finance,2-5 years,ChatGPT,Data Analysis,3.5,Occasional,Yes,53,70,4.4
+AI10800,38,Male,Finance,Healthcare,6-10 years,ChatGPT,Learning,0.7,Regular,No,0,54,4
+AI10801,34,Female,Operations,Retail,2-5 years,Gemini,Research,3.3,Occasional,Yes,46,63,3.8
+AI10802,51,Male,Data Analyst,Media,2-5 years,ChatGPT,Research,1.5,Regular,No,19,74,3
+AI10803,25,Male,HR,Finance,6-10 years,Claude,Content Creation,1.1,Rare,No,16,53,3.9
+AI10804,22,Female,Software Developer,Education,2-5 years,Microsoft Copilot,Coding,3.2,Occasional,Yes,52,73,3.5
+AI10805,35,Male,Finance,Manufacturing,10+ years,ChatGPT,Writing,1.2,Regular,Yes,7,84,3.7
+AI10806,26,Female,Marketing,Manufacturing,2-5 years,Microsoft Copilot,Data Analysis,8.9,Occasional,No,109,92,2.5
+AI10807,60,Female,Operations,Technology,2-5 years,Claude,Writing,4.5,Rare,No,90,65,3.1
+AI10808,58,Male,Student,Retail,0-1 years,Microsoft Copilot,Content Creation,8.5,Occasional,Yes,92,100,3.2
+AI10809,42,Female,Finance,Healthcare,6-10 years,Other,Coding,4.7,Regular,No,23,64,5
+AI10810,24,Female,Student,Manufacturing,10+ years,ChatGPT,Learning,0.5,Regular,Yes,2,64,2.8
+AI10811,53,Female,Software Developer,Education,0-1 years,Gemini,Content Creation,2.2,Rare,Yes,15,71,2.8
+AI10812,49,Non-binary,HR,Technology,0-1 years,Gemini,Learning,1.1,Occasional,Yes,10,57,1.5
+AI10813,44,Male,Data Analyst,Education,2-5 years,ChatGPT,Data Analysis,2,Occasional,Yes,31,70,3.6
+AI10814,35,Male,Software Developer,Other,6-10 years,Microsoft Copilot,Writing,1.3,Regular,Yes,10,64,3
+AI10815,47,Male,HR,Manufacturing,10+ years,ChatGPT,Research,3.5,Regular,No,38,70,3.5
+AI10816,55,Male,HR,Technology,6-10 years,ChatGPT,Data Analysis,1.6,Regular,Yes,5,63,3.3
+AI10817,26,Male,HR,Education,0-1 years,Microsoft Copilot,Writing,1.2,Occasional,No,19,58,3.7
+AI10818,20,Male,Student,Media,2-5 years,Other,Learning,1.7,Regular,Yes,16,58,1.7
+AI10819,34,Female,Software Developer,Healthcare,0-1 years,Microsoft Copilot,Customer Support,1.2,Rare,No,6,90,3.2
+AI10820,49,Male,HR,Education,10+ years,Claude,Coding,5.6,Regular,Yes,110,100,4.1
+AI10821,38,Female,Teacher,Manufacturing,2-5 years,Gemini,Coding,1.3,Regular,No,6,60,2.6
+AI10822,58,Male,Data Analyst,Manufacturing,0-1 years,Gemini,Content Creation,3.7,Occasional,No,27,76,3.4
+AI10823,35,Female,Marketing,Healthcare,6-10 years,ChatGPT,Research,2.9,Regular,Yes,46,70,3.5
+AI10824,48,Male,Teacher,Finance,2-5 years,ChatGPT,Writing,3.6,Regular,Yes,41,63,3.8
+AI10825,47,Female,Student,Technology,6-10 years,ChatGPT,Learning,0.6,Regular,No,0,55,2.6
+AI10826,33,Male,Operations,Healthcare,6-10 years,ChatGPT,Learning,1.3,Regular,No,13,92,3
+AI10827,49,Male,Marketing,Media,0-1 years,Claude,Content Creation,4.9,Occasional,No,55,76,1.3
+AI10828,59,Male,HR,Other,2-5 years,ChatGPT,Learning,3.5,Occasional,Yes,46,55,2.5
+AI10829,53,Female,Marketing,Technology,0-1 years,Gemini,Data Analysis,1.8,Rare,No,0,64,3.8
+AI10830,52,Male,Marketing,Healthcare,0-1 years,Other,Content Creation,1.5,Regular,Yes,22,66,2.5
+AI10831,43,Female,Marketing,Healthcare,0-1 years,Claude,Research,1.1,Occasional,No,17,78,4.7
+AI10832,47,Female,Student,Retail,6-10 years,ChatGPT,Learning,1.2,Occasional,Yes,21,67,3.5
+AI10833,47,Male,Operations,Healthcare,10+ years,Microsoft Copilot,Writing,4.3,Occasional,No,59,64,2.6
+AI10834,29,Prefer not to say,Teacher,Retail,10+ years,Claude,Customer Support,1.9,Occasional,No,24,53,3.9
+AI10835,56,Female,Operations,Manufacturing,6-10 years,ChatGPT,Customer Support,2.5,Regular,Yes,10,59,2.8
+AI10836,50,Female,Finance,Education,2-5 years,ChatGPT,Customer Support,2.5,Occasional,No,50,69,2.6
+AI10837,38,Female,Operations,Education,0-1 years,Microsoft Copilot,Data Analysis,2,Regular,No,43,47,3.3
+AI10838,56,Female,Student,Manufacturing,2-5 years,Microsoft Copilot,Writing,3.3,Occasional,No,54,59,2.4
+AI10839,42,Female,Software Developer,Media,2-5 years,Claude,Content Creation,0.9,Occasional,No,13,58,2.1
+AI10840,45,Female,Finance,Other,6-10 years,ChatGPT,Research,1.9,Rare,No,33,76,3.1
+AI10841,30,Prefer not to say,Marketing,Retail,2-5 years,ChatGPT,Research,4.1,Rare,Yes,57,79,4.3
+AI10842,34,Female,Student,Healthcare,0-1 years,Other,Coding,4.6,Regular,Yes,32,76,2.9
+AI10843,57,Female,Student,Technology,2-5 years,ChatGPT,Learning,2.5,Occasional,Yes,40,71,2.9
+AI10844,60,Male,Marketing,Media,0-1 years,Microsoft Copilot,Coding,1.5,Regular,No,12,70,2.7
+AI10845,35,Male,Teacher,Education,0-1 years,Claude,Content Creation,2.9,Regular,Yes,18,76,4.2
+AI10846,20,Female,Finance,Technology,0-1 years,Gemini,Coding,2.9,Occasional,No,58,78,3.4
+AI10847,28,Male,Software Developer,Healthcare,10+ years,Gemini,Customer Support,2,Regular,No,35,73,2.9
+AI10848,31,Male,Teacher,Retail,0-1 years,ChatGPT,Coding,1.5,Occasional,No,22,60,3.8
+AI10849,45,Female,Operations,Retail,10+ years,ChatGPT,Research,0.8,Occasional,No,15,50,3.6
+AI10850,59,Male,Software Developer,Technology,6-10 years,ChatGPT,Coding,1,Regular,No,14,60,2
+AI10851,24,Female,Operations,Technology,10+ years,Microsoft Copilot,Content Creation,0.8,Regular,No,0,65,3.2
+AI10852,44,Female,Data Analyst,Technology,6-10 years,ChatGPT,Writing,4.7,Regular,No,65,72,3
+AI10853,40,Female,Finance,Finance,2-5 years,Gemini,Research,2.9,Regular,No,46,55,1.7
+AI10854,22,Female,Software Developer,Manufacturing,6-10 years,Gemini,Customer Support,4,Occasional,No,64,72,1.9
+AI10855,55,Female,HR,Technology,10+ years,Other,Data Analysis,2.7,Regular,Yes,17,69,5
+AI10856,42,Female,Student,Education,6-10 years,Gemini,Writing,5.6,Rare,Yes,33,83,3.6
+AI10857,28,Female,Student,Manufacturing,0-1 years,Gemini,Learning,5,Regular,Yes,57,82,3.8
+AI10858,60,Female,Operations,Other,2-5 years,Microsoft Copilot,Data Analysis,1.2,Regular,No,13,72,3.3
+AI10859,18,Male,Data Analyst,Manufacturing,10+ years,ChatGPT,Data Analysis,2.6,Occasional,No,14,54,3.5
+AI10860,57,Male,Operations,Manufacturing,2-5 years,Microsoft Copilot,Learning,3.1,Regular,Yes,30,54,3.2
+AI10861,24,Male,HR,Healthcare,0-1 years,ChatGPT,Content Creation,1.5,Regular,Yes,19,75,3.8
+AI10862,31,Female,Finance,Finance,2-5 years,ChatGPT,Research,2.1,Regular,No,18,65,2.8
+AI10863,37,Female,HR,Manufacturing,0-1 years,Other,Research,2.4,Occasional,Yes,22,62,3.3
+AI10864,28,Female,Student,Retail,2-5 years,ChatGPT,Content Creation,2.9,Regular,Yes,22,62,3.5
+AI10865,31,Non-binary,Student,Media,0-1 years,Gemini,Writing,2.3,Occasional,No,41,56,3.6
+AI10866,29,Female,Student,Education,2-5 years,ChatGPT,Content Creation,2.3,Regular,No,32,76,2.4
+AI10867,24,Male,Student,Technology,0-1 years,ChatGPT,Research,1.1,Regular,Yes,24,61,1.5
+AI10868,27,Female,Operations,Manufacturing,2-5 years,Claude,Customer Support,2.5,Occasional,No,40,62,3.2
+AI10869,23,Prefer not to say,Marketing,Other,6-10 years,Other,Customer Support,4.5,Occasional,No,10,58,3.6
+AI10870,26,Male,Student,Media,0-1 years,Gemini,Data Analysis,5.9,Occasional,Yes,94,81,2.9
+AI10871,30,Male,Software Developer,Manufacturing,0-1 years,ChatGPT,Writing,0.6,Regular,No,2,60,2.2
+AI10872,31,Female,Data Analyst,Media,0-1 years,Other,Coding,2.2,Regular,Yes,30,81,3.5
+AI10873,59,Male,Operations,Other,10+ years,Microsoft Copilot,Learning,1,Regular,No,31,62,1.8
+AI10874,51,Prefer not to say,Teacher,Technology,0-1 years,ChatGPT,Research,1.7,Regular,No,17,51,3.4
+AI10875,47,Male,Student,Media,10+ years,Microsoft Copilot,Research,3.2,Rare,Yes,27,55,4.7
+AI10876,40,Male,Software Developer,Technology,0-1 years,ChatGPT,Customer Support,0.9,Regular,No,12,57,2.2
+AI10877,44,Non-binary,HR,Healthcare,2-5 years,ChatGPT,Coding,1.4,Rare,Yes,28,75,2.8
+AI10878,27,Prefer not to say,Marketing,Manufacturing,2-5 years,ChatGPT,Research,1.5,Regular,Yes,8,55,3.4
+AI10879,48,Female,Data Analyst,Finance,0-1 years,Gemini,Customer Support,2.1,Regular,No,16,66,2.7
+AI10880,53,Male,Marketing,Finance,0-1 years,Gemini,Content Creation,2.6,Regular,Yes,41,59,2.3
+AI10881,42,Male,Marketing,Technology,6-10 years,Other,Writing,4.1,Regular,No,36,94,1.5
+AI10882,36,Male,HR,Other,0-1 years,Gemini,Research,0.6,Rare,No,6,51,2.9
+AI10883,58,Male,Finance,Education,0-1 years,ChatGPT,Content Creation,4.9,Regular,No,86,62,4.2
+AI10884,24,Prefer not to say,Marketing,Retail,2-5 years,Claude,Learning,1.4,Regular,Yes,7,68,4.5
+AI10885,45,Male,Finance,Education,0-1 years,Gemini,Research,2.1,Rare,No,22,50,3.4
+AI10886,44,Male,Teacher,Retail,2-5 years,Gemini,Research,2.4,Occasional,No,0,52,1.3
+AI10887,38,Male,Student,Manufacturing,0-1 years,ChatGPT,Research,1.6,Occasional,No,4,61,1.3
+AI10888,20,Female,Marketing,Media,2-5 years,Microsoft Copilot,Content Creation,1.6,Regular,Yes,0,79,3.6
+AI10889,22,Female,Teacher,Technology,6-10 years,Microsoft Copilot,Writing,1,Regular,No,0,54,2.3
+AI10890,18,Male,Software Developer,Other,0-1 years,Gemini,Research,5.3,Rare,No,93,71,2.7
+AI10891,39,Female,Teacher,Finance,2-5 years,ChatGPT,Coding,8.6,Regular,Yes,86,76,3.5
+AI10892,51,Female,Data Analyst,Healthcare,2-5 years,Gemini,Coding,4.5,Regular,Yes,48,87,4.1
+AI10893,43,Male,Student,Other,2-5 years,Claude,Writing,1.2,Regular,No,14,58,2.5
+AI10894,31,Male,Teacher,Retail,2-5 years,Microsoft Copilot,Research,0.9,Rare,No,0,51,3.6
+AI10895,46,Male,Teacher,Media,10+ years,Claude,Customer Support,2.8,Regular,No,32,79,1.6
+AI10896,44,Male,Data Analyst,Education,6-10 years,Gemini,Data Analysis,4.7,Regular,Yes,67,65,3.4
+AI10897,40,Prefer not to say,Operations,Media,6-10 years,Microsoft Copilot,Content Creation,2,Occasional,No,29,77,3.3
+AI10898,37,Male,Finance,Other,2-5 years,Gemini,Learning,3.1,Regular,No,42,58,2.9
+AI10899,46,Male,Student,Technology,0-1 years,Microsoft Copilot,Customer Support,2.2,Regular,No,33,75,3.4
+AI10900,60,Female,Finance,Other,6-10 years,Gemini,Coding,4.5,Rare,No,56,64,2.3
+AI10901,31,Male,Software Developer,Retail,2-5 years,Gemini,Customer Support,4.6,Occasional,Yes,63,68,3.5
+AI10902,21,Female,Operations,Education,10+ years,ChatGPT,Writing,6.2,Regular,No,69,85,2.4
+AI10903,56,Male,Software Developer,Manufacturing,0-1 years,Gemini,Data Analysis,6,Occasional,Yes,68,84,2.5
+AI10904,60,Female,Student,Finance,10+ years,ChatGPT,Data Analysis,0.5,Regular,No,7,65,1.8
+AI10905,57,Male,Operations,Technology,0-1 years,Claude,Customer Support,2.7,Regular,No,14,59,3.4
+AI10906,47,Male,Data Analyst,Other,6-10 years,ChatGPT,Learning,2.2,Occasional,Yes,0,66,3.1
+AI10907,41,Prefer not to say,Software Developer,Finance,10+ years,Claude,Customer Support,6.1,Regular,No,34,83,2.8
+AI10908,60,Female,HR,Retail,2-5 years,Claude,Customer Support,2.1,Rare,Yes,37,55,2.2
+AI10909,40,Male,Software Developer,Finance,2-5 years,Microsoft Copilot,Content Creation,2.2,Occasional,Yes,40,64,3.5
+AI10910,25,Female,Software Developer,Finance,0-1 years,Gemini,Learning,3.7,Regular,Yes,47,69,3.9
+AI10911,38,Male,Marketing,Retail,2-5 years,Microsoft Copilot,Coding,0.3,Regular,No,8,55,3.3
+AI10912,30,Non-binary,Data Analyst,Finance,2-5 years,Microsoft Copilot,Learning,2.1,Occasional,No,25,59,3.8
+AI10913,22,Male,Finance,Retail,10+ years,Gemini,Learning,1.1,Occasional,Yes,10,59,3.2
+AI10914,23,Male,Operations,Manufacturing,2-5 years,ChatGPT,Learning,1.4,Rare,No,27,61,2.5
+AI10915,22,Male,Operations,Retail,0-1 years,Gemini,Coding,4.2,Occasional,No,41,52,2.9
+AI10916,60,Female,HR,Manufacturing,2-5 years,ChatGPT,Data Analysis,1.4,Occasional,No,18,54,3.8
+AI10917,54,Female,Finance,Media,0-1 years,Other,Research,4.6,Regular,No,81,68,2.9
+AI10918,30,Female,Data Analyst,Technology,6-10 years,ChatGPT,Data Analysis,1.2,Regular,Yes,2,66,1.2
+AI10919,28,Female,Teacher,Education,2-5 years,Microsoft Copilot,Customer Support,1.6,Regular,No,31,54,3.3
+AI10920,28,Male,Student,Healthcare,6-10 years,ChatGPT,Customer Support,1.6,Rare,No,4,54,2.9
+AI10921,29,Male,HR,Manufacturing,2-5 years,Other,Data Analysis,3.3,Regular,No,62,51,3.1
+AI10922,41,Male,Teacher,Media,2-5 years,Other,Customer Support,2.4,Occasional,No,47,66,3.9
+AI10923,43,Male,Marketing,Healthcare,10+ years,Gemini,Coding,3.7,Regular,Yes,25,63,3.1
+AI10924,56,Male,Finance,Media,0-1 years,Other,Coding,0.8,Occasional,No,9,66,2.5
+AI10925,54,Male,Teacher,Technology,0-1 years,ChatGPT,Research,3,Regular,Yes,31,76,2.4
+AI10926,41,Male,Operations,Manufacturing,0-1 years,ChatGPT,Coding,1.9,Rare,No,35,48,3.6
+AI10927,28,Female,Student,Manufacturing,6-10 years,Other,Data Analysis,2.1,Rare,No,28,60,4.5
+AI10928,18,Male,Finance,Media,0-1 years,ChatGPT,Research,3.6,Regular,Yes,47,85,3.3
+AI10929,27,Prefer not to say,Marketing,Education,0-1 years,Gemini,Content Creation,0.8,Regular,No,0,55,1.5
+AI10930,31,Male,Data Analyst,Manufacturing,0-1 years,Other,Content Creation,1.7,Regular,Yes,12,74,3.9
+AI10931,28,Female,Teacher,Retail,10+ years,ChatGPT,Writing,1.2,Occasional,No,7,54,2.5
+AI10932,45,Male,Data Analyst,Media,2-5 years,Gemini,Data Analysis,4,Regular,No,13,75,3.1
+AI10933,44,Female,Software Developer,Media,0-1 years,Gemini,Coding,3.8,Regular,No,26,44,1.5
+AI10934,38,Female,Marketing,Finance,0-1 years,Gemini,Research,0.6,Occasional,No,15,63,3
+AI10935,43,Male,Data Analyst,Retail,6-10 years,Gemini,Customer Support,1.4,Occasional,Yes,19,46,2.2
+AI10936,27,Prefer not to say,HR,Education,2-5 years,Gemini,Content Creation,1.5,Occasional,No,18,51,4.6
+AI10937,30,Non-binary,HR,Education,2-5 years,Gemini,Coding,0.7,Occasional,No,2,55,1.8
+AI10938,33,Female,Student,Education,0-1 years,Microsoft Copilot,Customer Support,1.3,Occasional,Yes,16,75,3.6
+AI10939,35,Male,Data Analyst,Manufacturing,0-1 years,Other,Writing,1.9,Regular,Yes,21,58,3.6
+AI10940,36,Prefer not to say,Marketing,Retail,2-5 years,Claude,Content Creation,7,Regular,Yes,86,91,3.2
+AI10941,60,Male,Operations,Other,10+ years,ChatGPT,Learning,3.3,Occasional,Yes,26,69,3.2
+AI10942,18,Female,Marketing,Education,0-1 years,ChatGPT,Writing,1.8,Regular,No,11,81,3.2
+AI10943,37,Male,Marketing,Media,0-1 years,Gemini,Customer Support,5.7,Occasional,No,82,62,3.5
+AI10944,44,Male,HR,Media,2-5 years,Microsoft Copilot,Coding,1.3,Occasional,No,4,82,4.2
+AI10945,18,Male,Teacher,Technology,2-5 years,Microsoft Copilot,Content Creation,1.4,Regular,Yes,15,64,4
+AI10946,54,Female,Data Analyst,Technology,2-5 years,ChatGPT,Writing,2.5,Occasional,No,0,69,2.5
+AI10947,36,Female,HR,Media,2-5 years,Other,Learning,3.4,Occasional,No,37,69,3
+AI10948,25,Male,Operations,Media,6-10 years,Gemini,Coding,0.9,Occasional,No,25,53,3.7
+AI10949,56,Female,Operations,Media,6-10 years,ChatGPT,Learning,2.2,Regular,Yes,32,68,2.5
+AI10950,52,Female,Software Developer,Finance,2-5 years,Gemini,Writing,1.5,Regular,Yes,23,61,2.9
+AI10951,32,Female,Teacher,Media,10+ years,,Research,3.1,Regular,No,12,78,3.4
+AI10952,35,Male,Teacher,Education,0-1 years,Microsoft Copilot,Writing,5.3,Regular,Yes,67,93,4.6
+AI10953,20,Prefer not to say,Data Analyst,Other,0-1 years,Microsoft Copilot,Writing,2.7,Regular,Yes,33,66,3.7
+AI10954,29,Female,Teacher,Finance,0-1 years,Claude,Customer Support,4.1,Rare,Yes,46,82,1.9
+AI10955,19,Female,Operations,Technology,0-1 years,Microsoft Copilot,Coding,0.8,Regular,Yes,10,70,2.3
+AI10956,42,Female,Operations,Education,6-10 years,Other,Research,0.5,Regular,No,3,52,3.6
+AI10957,29,Female,Teacher,Manufacturing,10+ years,ChatGPT,Learning,1.3,Occasional,No,16,75,1.9
+AI10958,25,Female,Software Developer,Technology,2-5 years,Gemini,Coding,6.4,Occasional,Yes,51,88,3.2
+AI10959,33,Male,Marketing,Education,10+ years,Gemini,Content Creation,1.6,Regular,No,24,55,1.5
+AI10960,31,Female,Teacher,Technology,6-10 years,Microsoft Copilot,Data Analysis,1.8,Rare,No,24,65,2.9
+AI10961,54,Male,Student,Healthcare,0-1 years,Microsoft Copilot,Content Creation,3.2,Regular,No,55,51,1.8
+AI10962,52,Male,Data Analyst,Other,0-1 years,Gemini,Content Creation,3.6,Regular,No,34,63,3.5
+AI10963,51,Female,Data Analyst,Retail,0-1 years,Microsoft Copilot,Customer Support,1.3,Rare,Yes,21,82,2.7
+AI10964,36,Female,Marketing,Healthcare,6-10 years,Gemini,Customer Support,2.8,Occasional,No,27,65,3
+AI10965,47,Prefer not to say,Student,Retail,0-1 years,Other,Data Analysis,1,Occasional,No,17,60,4.7
+AI10966,59,Male,Data Analyst,Retail,2-5 years,Gemini,Coding,0.7,Regular,No,17,53,4.2
+AI10967,33,Female,Operations,Technology,0-1 years,ChatGPT,Coding,1.7,Rare,Yes,23,57,2.8
+AI10968,29,Female,Marketing,Education,2-5 years,Gemini,Coding,3.3,Regular,No,23,60,3.5
+AI10969,26,Male,Teacher,Technology,0-1 years,Gemini,Content Creation,2.9,Occasional,No,32,91,3.9
+AI10970,28,Female,Student,Education,0-1 years,Gemini,Learning,2.5,Regular,No,35,61,3
+AI10971,22,Male,Student,Manufacturing,2-5 years,Microsoft Copilot,Research,0.3,Regular,Yes,5,60,2.6
+AI10972,41,Male,Operations,Retail,6-10 years,Gemini,Learning,2.2,Regular,Yes,27,63,3.1
+AI10973,29,Female,Operations,Manufacturing,10+ years,Gemini,Customer Support,2.9,Regular,No,41,59,3.7
+AI10974,52,Male,Student,Finance,0-1 years,ChatGPT,Data Analysis,2.2,Occasional,No,30,59,3.6
+AI10975,47,Male,Data Analyst,Retail,2-5 years,Microsoft Copilot,Coding,2.8,Regular,No,28,74,3
+AI10976,52,Male,Marketing,Finance,0-1 years,Other,Customer Support,3.5,Regular,No,45,49,3.3
+AI10977,31,Male,HR,Retail,6-10 years,Microsoft Copilot,Customer Support,4.3,Rare,No,29,64,4.1
+AI10978,28,Female,Teacher,Technology,0-1 years,Claude,Data Analysis,2.5,Occasional,Yes,38,81,1
+AI10979,44,Female,Student,Education,0-1 years,ChatGPT,Data Analysis,2.3,Regular,No,18,53,3.5
+AI10980,26,Male,Data Analyst,Media,2-5 years,Claude,Content Creation,6.2,Regular,Yes,59,98,3.4
+AI10981,23,Female,Student,Technology,0-1 years,ChatGPT,Learning,2.6,Regular,Yes,33,66,1.7
+AI10982,32,Male,Finance,Other,10+ years,Other,Content Creation,1.1,Regular,No,23,41,4.6
+AI10983,35,Female,Finance,Finance,2-5 years,Claude,Writing,1.6,Occasional,No,8,67,3.6
+AI10984,35,Male,Finance,Finance,2-5 years,Other,Content Creation,2.3,Regular,No,43,44,3.3
+AI10985,60,Male,Data Analyst,Media,0-1 years,ChatGPT,Research,4.3,Regular,No,63,72,3.1
+AI10986,26,Prefer not to say,Teacher,Healthcare,0-1 years,ChatGPT,Customer Support,1.9,Regular,No,27,66,2.7
+AI10987,60,Male,Operations,Technology,2-5 years,Microsoft Copilot,Learning,4.3,Occasional,No,62,75,3.6
+AI10988,25,Female,HR,Finance,2-5 years,ChatGPT,Research,1.8,Regular,No,23,58,2.9
+AI10989,55,Male,Operations,Media,6-10 years,Microsoft Copilot,Customer Support,1.7,Regular,Yes,7,78,2.1
+AI10990,49,Female,Teacher,Technology,2-5 years,ChatGPT,Customer Support,4.1,Regular,No,55,63,3.8
+AI10991,55,Female,Student,Healthcare,2-5 years,ChatGPT,Coding,1,Occasional,No,19,71,3.4
+AI10992,31,Female,Teacher,Finance,6-10 years,ChatGPT,Customer Support,5.2,Regular,No,58,67,1.7
+AI10993,44,Male,Finance,Healthcare,6-10 years,ChatGPT,Writing,2,Rare,No,19,62,3.6
+AI10994,57,Female,Finance,Media,6-10 years,Gemini,Coding,10,Regular,Yes,118,91,3.2
+AI10995,34,Male,Data Analyst,Manufacturing,0-1 years,ChatGPT,Writing,1.5,Occasional,No,20,50,1.6
+AI10996,40,Male,Software Developer,Education,2-5 years,ChatGPT,Customer Support,1.6,Occasional,No,12,52,2.7
+AI10997,55,Male,Software Developer,Manufacturing,0-1 years,ChatGPT,Content Creation,1.5,Occasional,Yes,6,49,3.6
+AI10998,19,Female,Student,Media,2-5 years,Microsoft Copilot,Research,1.3,Rare,No,0,58,3.4
+AI10999,44,Female,Software Developer,Manufacturing,0-1 years,Microsoft Copilot,Coding,0.9,Occasional,Yes,6,47,5
+AI11000,48,Female,Data Analyst,Education,2-5 years,Gemini,Coding,2,Occasional,No,4,66,3
+AI11001,19,Prefer not to say,Marketing,Retail,2-5 years,Gemini,Data Analysis,6.5,Regular,No,100,95,2
+AI11002,25,Female,Teacher,Retail,2-5 years,Microsoft Copilot,Research,2.2,Regular,No,33,62,1.9
+AI11003,57,Male,HR,Education,0-1 years,Other,Research,1,Regular,Yes,5,76,2.9
+AI11004,35,Male,Software Developer,Media,2-5 years,Claude,Data Analysis,1.3,Rare,Yes,16,55,3.4
+AI11005,38,Male,Finance,Technology,6-10 years,Gemini,Research,1,Occasional,No,11,57,1.6
+AI11006,36,Female,Operations,Finance,0-1 years,Other,Writing,2.6,Regular,Yes,23,66,3.7
+AI11007,29,Female,Operations,Finance,2-5 years,Microsoft Copilot,Content Creation,3.1,Regular,No,29,71,2.4
+AI11008,19,Male,Software Developer,Other,2-5 years,ChatGPT,Research,2.2,Regular,No,36,83,2.8
+AI11009,32,Female,Software Developer,Other,0-1 years,Microsoft Copilot,Research,2.1,Regular,Yes,11,65,2.9
+AI11010,56,Prefer not to say,Student,Media,2-5 years,Microsoft Copilot,Learning,5.4,Occasional,Yes,85,73,2.5
+AI11011,50,Male,Teacher,Finance,0-1 years,Other,Customer Support,2.3,Occasional,No,37,75,2.1
+AI11012,30,Female,Software Developer,Manufacturing,6-10 years,Gemini,Learning,1.2,Regular,Yes,14,84,3.3
+AI11013,21,Female,Software Developer,Manufacturing,0-1 years,Gemini,Customer Support,1.9,Regular,No,23,66,2.4
+AI11014,43,Male,Marketing,Finance,2-5 years,ChatGPT,Learning,3.1,Regular,No,41,79,3.3
+AI11015,47,Male,Student,Finance,0-1 years,Gemini,Coding,1.2,Regular,No,15,68,3.1
+AI11016,28,Male,Student,Technology,2-5 years,ChatGPT,Customer Support,4.3,Regular,Yes,74,84,3.7
+AI11017,42,Non-binary,Finance,Healthcare,0-1 years,Microsoft Copilot,Learning,1.6,Regular,No,18,43,1.7
+AI11018,43,Female,Marketing,Retail,10+ years,Claude,Coding,3.1,Regular,No,53,83,1.9
+AI11019,32,Male,Software Developer,Manufacturing,0-1 years,Claude,Customer Support,1.8,Occasional,No,19,86,3.5
+AI11020,54,Male,Teacher,Technology,2-5 years,ChatGPT,Research,1.3,Regular,Yes,20,57,2.8
+AI11021,53,Male,Data Analyst,Manufacturing,2-5 years,Gemini,Coding,2.2,Regular,No,16,58,4.2
+AI11022,25,Female,Marketing,Other,2-5 years,Microsoft Copilot,Writing,2.6,Occasional,Yes,49,71,2.9
+AI11023,23,Female,Software Developer,Media,6-10 years,ChatGPT,Content Creation,0.9,Rare,No,21,57,2.5
+AI11024,36,Male,Marketing,Other,0-1 years,Gemini,Content Creation,2.1,Rare,No,19,65,2.3
+AI11025,41,Male,Data Analyst,Media,0-1 years,Gemini,Content Creation,0.7,Regular,No,2,64,3.4
+AI11026,40,Female,Operations,Healthcare,10+ years,ChatGPT,Data Analysis,1.5,Occasional,No,19,60,2.2
+AI11027,36,Female,Software Developer,Other,0-1 years,Gemini,Data Analysis,2.7,Regular,Yes,18,82,1.9
+AI11028,22,Male,Data Analyst,Manufacturing,6-10 years,Claude,Customer Support,0.7,Rare,No,0,48,1.9
+AI11029,37,Male,HR,Healthcare,2-5 years,ChatGPT,Writing,2.8,Regular,Yes,14,78,4.3
+AI11030,43,Male,Finance,Manufacturing,6-10 years,Other,Customer Support,0.3,Rare,No,11,64,4.5
+AI11031,54,Prefer not to say,HR,Other,0-1 years,Microsoft Copilot,Content Creation,2.6,Regular,No,23,70,3
+AI11032,60,Male,Operations,Finance,6-10 years,Other,Learning,0.3,Occasional,Yes,0,67,2.3
+AI11033,31,Male,HR,Education,6-10 years,Gemini,Data Analysis,4.5,Occasional,No,57,77,2.4
+AI11034,52,Male,Marketing,Technology,2-5 years,Microsoft Copilot,Customer Support,2.3,Regular,Yes,39,64,3.5
+AI11035,20,Male,Software Developer,Manufacturing,0-1 years,Claude,Customer Support,1.5,Regular,No,9,58,3.5
+AI11036,40,Male,Finance,Healthcare,0-1 years,ChatGPT,Customer Support,3.9,Occasional,No,49,58,3.4
+AI11037,34,Female,Operations,Education,0-1 years,Claude,Learning,3.3,Occasional,No,23,84,3
+AI11038,26,Male,Finance,Retail,0-1 years,ChatGPT,Data Analysis,2.8,Occasional,No,19,53,3.1
+AI11039,33,Male,Finance,Other,10+ years,Microsoft Copilot,Writing,3.8,Regular,No,53,74,3.4
+AI11040,22,Female,Student,Manufacturing,2-5 years,Gemini,Research,0.6,Rare,No,1,50,3.3
+AI11041,36,Male,Marketing,Other,2-5 years,Other,Data Analysis,3.7,Occasional,No,47,76,1.8
+AI11042,55,Male,HR,Manufacturing,2-5 years,Gemini,Customer Support,4.5,Regular,No,29,69,3.1
+AI11043,18,Male,Teacher,Education,0-1 years,Microsoft Copilot,Coding,2.4,Occasional,No,21,88,3.8
+AI11044,49,Male,Operations,Education,6-10 years,ChatGPT,Customer Support,4.4,Regular,No,64,79,3.8
+AI11045,39,Prefer not to say,HR,Media,2-5 years,ChatGPT,Research,9.5,Regular,No,180,98,3.9
+AI11046,51,Female,Operations,Other,2-5 years,Microsoft Copilot,Content Creation,2.4,Occasional,No,30,60,3.1
+AI11047,39,Male,Student,Retail,0-1 years,ChatGPT,Learning,0.8,Regular,Yes,12,57,4.5
+AI11048,38,Female,Finance,Technology,6-10 years,ChatGPT,Customer Support,3.5,Occasional,No,19,59,2.2
+AI11049,29,Female,Software Developer,Media,0-1 years,Gemini,Coding,1.5,Regular,No,25,69,2.2
+AI11050,20,Female,Software Developer,Technology,0-1 years,Microsoft Copilot,Data Analysis,0.8,Regular,No,16,48,3.7
+AI11051,43,Female,Operations,Media,2-5 years,Gemini,Data Analysis,4.5,Rare,No,63,78,3.4
+AI11052,42,Female,HR,Education,0-1 years,ChatGPT,Customer Support,1.2,Occasional,No,6,54,3.2
+AI11053,38,Male,Marketing,Healthcare,10+ years,Claude,Content Creation,0.8,Regular,No,20,60,3.4
+AI11054,39,Female,Operations,Healthcare,6-10 years,Gemini,Data Analysis,0.5,Regular,No,11,47,3.1
+AI11055,20,Male,Marketing,Retail,6-10 years,ChatGPT,Learning,3.5,Regular,No,63,69,3.7
+AI11056,19,Male,Operations,Other,0-1 years,Microsoft Copilot,Learning,2.6,Rare,Yes,17,58,2.6
+AI11057,53,Female,Software Developer,Manufacturing,2-5 years,Microsoft Copilot,Research,5.6,Occasional,No,21,77,2.8
+AI11058,34,Male,Software Developer,Manufacturing,0-1 years,ChatGPT,Customer Support,2.3,Regular,No,8,59,2.2
+AI11059,35,Female,HR,Media,0-1 years,Microsoft Copilot,Research,2.7,Regular,No,25,57,4
+AI11060,45,Male,Operations,Healthcare,0-1 years,Gemini,Customer Support,4.7,Occasional,No,39,69,3
+AI11061,44,Prefer not to say,Student,Manufacturing,2-5 years,ChatGPT,Data Analysis,2.7,Regular,No,31,70,3.4
+AI11062,23,Female,HR,Media,6-10 years,Microsoft Copilot,Coding,4.6,Rare,Yes,31,64,3.5
+AI11063,39,Male,Marketing,Education,2-5 years,Gemini,Writing,2.4,Occasional,Yes,43,64,3.6
+AI11064,29,Prefer not to say,Teacher,Other,2-5 years,Microsoft Copilot,Learning,8.4,Occasional,No,97,58,3
+AI11065,39,Male,Teacher,Media,2-5 years,Other,Research,0.8,Occasional,Yes,13,79,3.2
+AI11066,27,Male,Data Analyst,Retail,10+ years,ChatGPT,Data Analysis,0.3,Occasional,No,0,67,2.8
+AI11067,46,Prefer not to say,HR,Manufacturing,0-1 years,ChatGPT,Content Creation,1.3,Occasional,Yes,27,71,3.6
+AI11068,49,Female,Operations,Media,2-5 years,Microsoft Copilot,Writing,0.4,Occasional,No,0,60,4.6
+AI11069,33,Male,Data Analyst,Retail,6-10 years,Microsoft Copilot,Customer Support,0.7,Regular,No,2,56,3.8
+AI11070,34,Female,Teacher,Other,2-5 years,ChatGPT,Coding,3,Rare,No,44,79,2.6
+AI11071,35,Female,Student,Manufacturing,0-1 years,ChatGPT,Research,4.2,Regular,No,69,68,2.4
+AI11072,45,Female,Data Analyst,Education,0-1 years,Gemini,Research,0.2,Occasional,No,5,50,2.6
+AI11073,28,Male,Software Developer,Finance,2-5 years,Claude,Customer Support,1,Regular,No,21,53,3.7
+AI11074,35,Female,Finance,Retail,6-10 years,Microsoft Copilot,Research,0.6,Regular,No,0,69,3.1
+AI11075,46,Female,Teacher,Manufacturing,0-1 years,Other,Learning,0.7,Regular,Yes,6,64,2
+AI11076,36,Female,Student,Manufacturing,0-1 years,Gemini,Content Creation,5.1,Occasional,No,40,84,3.6
+AI11077,41,Male,Student,Manufacturing,6-10 years,Microsoft Copilot,Data Analysis,2.4,Regular,Yes,18,74,2
+AI11078,23,Male,HR,Retail,6-10 years,Claude,Learning,7.2,Regular,No,42,100,4.5
+AI11079,51,Male,Software Developer,Education,0-1 years,Gemini,Writing,0.8,Regular,Yes,6,49,3
+AI11080,36,Male,Finance,Finance,10+ years,Other,Writing,2.7,Regular,No,49,58,2.4
+AI11081,21,Female,Marketing,Retail,0-1 years,ChatGPT,Content Creation,3.5,Occasional,No,53,63,1.7
+AI11082,60,Male,Finance,Finance,0-1 years,Gemini,Research,6.8,Occasional,Yes,73,92,4.3
+AI11083,33,Male,Software Developer,Healthcare,2-5 years,ChatGPT,Writing,0.5,Rare,No,5,59,4.7
+AI11084,50,Male,Teacher,Other,10+ years,ChatGPT,Research,3.6,Regular,No,49,70,2.9
+AI11085,43,Male,Student,Finance,2-5 years,Gemini,Content Creation,5.9,Occasional,Yes,43,85,3.3
+AI11086,47,Prefer not to say,Teacher,Other,6-10 years,Microsoft Copilot,Writing,0.5,Regular,Yes,10,59,3.6
+AI11087,34,Male,Marketing,Other,2-5 years,Claude,Coding,1.6,Regular,No,17,66,2.1
+AI11088,52,Male,Student,Technology,2-5 years,Claude,Learning,3.9,Regular,Yes,33,80,3.6
+AI11089,59,Male,Operations,Other,10+ years,ChatGPT,Coding,0.6,Occasional,Yes,5,79,4.9
+AI11090,20,Male,Teacher,Manufacturing,0-1 years,Claude,Research,3.6,Occasional,Yes,51,80,3.4
+AI11091,58,Female,Data Analyst,Healthcare,10+ years,Microsoft Copilot,Learning,1.2,Regular,No,12,65,3.5
+AI11092,52,Male,Finance,Manufacturing,2-5 years,Claude,Writing,3.5,Regular,No,17,62,2.3
+AI11093,23,Female,Data Analyst,Education,6-10 years,ChatGPT,Writing,3.4,Rare,Yes,45,76,1.8
+AI11094,52,Male,Data Analyst,Healthcare,6-10 years,,Learning,2.7,Regular,No,39,58,1.9
+AI11095,22,Female,Software Developer,Finance,2-5 years,ChatGPT,Customer Support,2.8,Regular,No,36,74,3.5
+AI11096,46,Female,Software Developer,Healthcare,0-1 years,ChatGPT,Learning,1.1,Regular,No,19,75,4.7
+AI11097,26,Male,Operations,Media,6-10 years,Microsoft Copilot,Learning,5.6,Regular,Yes,81,90,3.6
+AI11098,57,Male,Finance,Finance,2-5 years,Microsoft Copilot,Learning,1.2,Regular,No,3,64,2.2
+AI11099,34,Prefer not to say,Marketing,Retail,0-1 years,Claude,Writing,2.3,Regular,Yes,8,63,2.8
+AI11100,20,Prefer not to say,Teacher,Manufacturing,0-1 years,Other,Content Creation,4.3,Occasional,No,68,70,3.3
+AI11101,58,Male,Student,Media,10+ years,ChatGPT,Coding,1.4,Regular,No,11,68,3.2
+AI11102,21,Male,Operations,Healthcare,10+ years,ChatGPT,Customer Support,1.1,Regular,Yes,25,70,3
+AI11103,58,Male,Student,Media,0-1 years,Gemini,Research,1.4,Regular,No,26,50,3.3
+AI11104,57,Male,Student,Manufacturing,6-10 years,Other,Learning,4.2,Regular,No,19,65,3.3
+AI11105,22,Female,Student,Technology,0-1 years,Other,Learning,4.7,Regular,Yes,43,56,2.4
+AI11106,35,Male,Marketing,Manufacturing,10+ years,ChatGPT,Content Creation,0.4,Regular,No,5,61,3.5
+AI11107,24,Male,Operations,Finance,0-1 years,ChatGPT,Coding,2.4,Regular,Yes,41,76,2.9
+AI11108,58,Male,Teacher,Other,6-10 years,Gemini,Content Creation,0.5,Regular,No,16,46,3
+AI11109,26,Male,Student,Media,0-1 years,Claude,Writing,1.2,Occasional,Yes,20,68,3
+AI11110,38,Prefer not to say,Finance,Manufacturing,10+ years,Microsoft Copilot,Research,1.8,Regular,No,22,54,3.5
+AI11111,55,Female,Operations,Manufacturing,2-5 years,ChatGPT,Customer Support,3.3,Regular,No,20,61,2
+AI11112,36,Female,Teacher,Education,0-1 years,ChatGPT,Learning,1.4,Occasional,No,20,74,2.4
+AI11113,54,Female,Software Developer,Media,2-5 years,ChatGPT,Learning,3.1,Occasional,No,35,74,2.3
+AI11114,52,Female,Finance,Technology,10+ years,Other,Customer Support,1,Occasional,No,0,47,2.9
+AI11115,35,Female,Software Developer,Media,2-5 years,ChatGPT,Writing,0.9,Rare,Yes,12,58,2.3
+AI11116,37,Male,Data Analyst,Retail,6-10 years,ChatGPT,Learning,0.5,Rare,Yes,0,67,4.3
+AI11117,34,Male,Operations,Other,2-5 years,Other,Data Analysis,2.2,Regular,Yes,41,81,3.9
+AI11118,25,Female,Finance,Education,0-1 years,Microsoft Copilot,Writing,2.7,Rare,No,24,61,3.5
+AI11119,45,Male,Marketing,Manufacturing,2-5 years,ChatGPT,Coding,0.2,Occasional,Yes,0,62,3.4
+AI11120,36,Prefer not to say,Finance,Healthcare,6-10 years,ChatGPT,Learning,4.4,Regular,No,56,77,4.9
+AI11121,49,Prefer not to say,Data Analyst,Retail,2-5 years,Claude,Customer Support,3.2,Occasional,No,36,63,3.4
+AI11122,26,Male,Operations,Finance,6-10 years,Microsoft Copilot,Content Creation,1.4,Occasional,Yes,27,57,2.6
+AI11123,35,Male,Finance,Manufacturing,2-5 years,Other,Data Analysis,1.8,Regular,Yes,16,67,2.9
+AI11124,56,Male,Software Developer,Technology,6-10 years,Claude,Research,3,Regular,No,18,56,1.6
+AI11125,59,Male,Finance,Technology,10+ years,ChatGPT,Content Creation,4.1,Rare,No,55,88,2.7
+AI11126,54,Female,Data Analyst,Education,0-1 years,ChatGPT,Writing,3.6,Regular,Yes,43,76,4
+AI11127,45,Male,Marketing,Education,0-1 years,Gemini,Coding,0.7,Occasional,No,19,46,4.1
+AI11128,23,Male,HR,Education,2-5 years,ChatGPT,Data Analysis,2.6,Regular,No,53,54,1.8
+AI11129,39,Male,Teacher,Finance,6-10 years,ChatGPT,Customer Support,1.7,Rare,No,13,66,4.1
+AI11130,32,Male,Marketing,Technology,0-1 years,Other,Content Creation,4.7,Regular,No,44,79,2.3
+AI11131,26,Male,HR,Manufacturing,10+ years,Microsoft Copilot,Data Analysis,2.5,Rare,No,20,52,2.8
+AI11132,52,Female,Marketing,Other,2-5 years,Claude,Content Creation,3.1,Regular,Yes,23,69,2.9
+AI11133,41,Female,Student,Other,6-10 years,ChatGPT,Coding,1,Regular,No,14,62,3.4
+AI11134,19,Male,Operations,Finance,6-10 years,Claude,Coding,6.9,Rare,Yes,38,96,5
+AI11135,20,Male,Teacher,Other,10+ years,ChatGPT,Customer Support,4.3,Occasional,No,51,82,4.1
+AI11136,18,Non-binary,HR,Other,0-1 years,Microsoft Copilot,Content Creation,6.5,Occasional,Yes,40,85,4.7
+AI11137,43,Male,Student,Retail,6-10 years,Microsoft Copilot,Research,2,Occasional,No,16,40,3
+AI11138,25,Female,HR,Education,2-5 years,ChatGPT,Content Creation,6.2,Regular,No,111,75,3.8
+AI11139,31,Female,Data Analyst,Education,10+ years,Gemini,Learning,0.8,Regular,Yes,0,64,3
+AI11140,58,Female,Operations,Retail,0-1 years,Other,Coding,1.8,Regular,Yes,20,62,1.9
+AI11141,27,Female,Student,Retail,6-10 years,Microsoft Copilot,Customer Support,1.7,Rare,No,10,66,3.2
+AI11142,38,Prefer not to say,HR,Retail,0-1 years,ChatGPT,Content Creation,1.5,Occasional,Yes,36,64,3.5
+AI11143,32,Male,Marketing,Retail,0-1 years,ChatGPT,Learning,0.8,Regular,Yes,20,50,1
+AI11144,25,Male,Operations,Manufacturing,10+ years,ChatGPT,Research,0.3,Regular,Yes,3,39,3.4
+AI11145,50,Male,Teacher,Finance,0-1 years,Claude,Writing,2.6,Regular,Yes,41,60,3.6
+AI11146,27,Prefer not to say,HR,Media,2-5 years,ChatGPT,Writing,3.7,Regular,No,41,61,1.2
+AI11147,50,Male,Finance,Manufacturing,6-10 years,ChatGPT,Writing,5.9,Regular,No,29,83,2.8
+AI11148,23,Male,Finance,Healthcare,0-1 years,ChatGPT,Customer Support,3.2,Regular,No,39,73,2.6
+AI11149,45,Male,Finance,Manufacturing,0-1 years,ChatGPT,Customer Support,4.6,Regular,Yes,72,88,4.1
+AI11150,42,Male,Software Developer,Manufacturing,2-5 years,ChatGPT,Research,1.7,Regular,No,34,52,1.2
+AI11151,51,Female,Finance,Finance,2-5 years,ChatGPT,Research,1,Occasional,No,15,69,3.5
+AI11152,26,Male,Data Analyst,Technology,2-5 years,ChatGPT,Data Analysis,0.5,Regular,No,7,56,2.9
+AI11153,47,Male,Software Developer,Finance,0-1 years,Microsoft Copilot,Learning,2,Regular,No,27,52,3.7
+AI11154,44,Male,Finance,Media,2-5 years,Microsoft Copilot,Learning,1.5,Regular,Yes,14,73,3.8
+AI11155,51,Male,HR,Technology,2-5 years,Gemini,Writing,2.1,Occasional,No,20,71,1.9
+AI11156,60,Male,Student,Retail,6-10 years,ChatGPT,Research,1,Regular,No,18,71,1.3
+AI11157,59,Female,Operations,Other,10+ years,Other,Content Creation,1.8,Occasional,Yes,35,57,1.3
+AI11158,44,Female,Data Analyst,Education,6-10 years,Gemini,Learning,1.6,Occasional,Yes,32,54,3.6
+AI11159,46,Male,Finance,Retail,2-5 years,ChatGPT,Content Creation,1.8,Rare,No,20,73,1.2
+AI11160,28,Female,HR,Finance,6-10 years,Microsoft Copilot,Content Creation,3.6,Occasional,Yes,24,64,3.8
+AI11161,18,Female,Software Developer,Media,0-1 years,Other,Writing,2.2,Regular,Yes,38,69,4.2
+AI11162,25,Female,HR,Technology,6-10 years,Other,Content Creation,2,Rare,Yes,20,84,3.2
+AI11163,53,Male,Finance,Retail,2-5 years,ChatGPT,Learning,1.4,Regular,Yes,0,60,4.8
+AI11164,30,Prefer not to say,Student,Manufacturing,2-5 years,ChatGPT,Learning,6.1,Occasional,No,42,75,2.9
+AI11165,18,Female,Teacher,,0-1 years,Other,Data Analysis,1,Rare,No,13,57,5
+AI11166,38,Male,Data Analyst,Healthcare,0-1 years,Gemini,Customer Support,6.3,Regular,Yes,45,90,3.4
+AI11167,19,Female,Student,Technology,2-5 years,Claude,Data Analysis,5.5,Regular,No,93,90,1.6
+AI11168,27,Female,Finance,Retail,2-5 years,Microsoft Copilot,Learning,1.9,Occasional,No,20,56,2.4
+AI11169,28,Male,Data Analyst,Education,2-5 years,Microsoft Copilot,Learning,2.7,Regular,No,36,65,1.3
+AI11170,18,Female,Marketing,Retail,6-10 years,Claude,Research,6.4,Occasional,Yes,61,91,2.7
+AI11171,20,Male,Student,Finance,10+ years,Claude,Learning,2.4,Regular,No,19,71,4.9
+AI11172,52,Female,Finance,Finance,2-5 years,Other,Data Analysis,1.1,Regular,No,20,61,1.6
+AI11173,44,Male,Operations,Media,0-1 years,ChatGPT,Research,5,Regular,No,68,72,3.1
+AI11174,42,Female,Data Analyst,Other,2-5 years,Claude,Content Creation,4.9,Rare,No,38,83,2.7
+AI11175,46,Male,Finance,Healthcare,0-1 years,ChatGPT,Customer Support,2.6,Regular,No,7,66,3.6
+AI11176,49,Male,Teacher,Media,6-10 years,Claude,Content Creation,3.1,Rare,No,45,61,2.4
+AI11177,60,Female,Data Analyst,Healthcare,0-1 years,Microsoft Copilot,Data Analysis,0.3,Regular,No,7,53,3.1
+AI11178,35,Female,Software Developer,Manufacturing,2-5 years,Gemini,Customer Support,4,Rare,No,53,62,3.4
+AI11179,56,Female,Marketing,Healthcare,2-5 years,ChatGPT,Customer Support,2,Regular,No,29,49,2.2
+AI11180,27,Female,Software Developer,Technology,2-5 years,ChatGPT,Customer Support,0.9,Occasional,Yes,0,57,3.7
+AI11181,39,Male,Student,Media,6-10 years,ChatGPT,Data Analysis,1.6,Occasional,No,3,60,2.2
+AI11182,44,Female,Marketing,Finance,0-1 years,Other,Customer Support,3.8,Regular,No,53,76,3
+AI11183,44,Male,Operations,Finance,2-5 years,Gemini,Writing,2.7,Occasional,Yes,42,59,3.1
+AI11184,35,Prefer not to say,Finance,Healthcare,2-5 years,ChatGPT,Data Analysis,2,Rare,No,32,76,4
+AI11185,39,Male,Software Developer,Media,6-10 years,ChatGPT,Content Creation,3.4,Occasional,No,51,40,3.6
+AI11186,30,Male,Operations,Manufacturing,2-5 years,ChatGPT,Coding,2.9,Rare,No,47,58,3
+AI11187,51,Female,Student,Technology,10+ years,Microsoft Copilot,Content Creation,1.1,Regular,No,17,60,2.5
+AI11188,54,Female,Data Analyst,Education,0-1 years,Microsoft Copilot,Writing,2.7,Occasional,No,27,76,3
+AI11189,42,Female,Operations,Retail,0-1 years,ChatGPT,Coding,2.5,Rare,No,22,53,3.4
+AI11190,59,Male,Data Analyst,Technology,2-5 years,ChatGPT,Data Analysis,6.4,Occasional,No,62,85,1.8
+AI11191,34,Prefer not to say,Teacher,Technology,0-1 years,ChatGPT,Learning,0.6,Occasional,No,0,81,2.3
+AI11192,51,Female,Data Analyst,Media,0-1 years,Microsoft Copilot,Writing,0.6,Regular,Yes,5,65,3.3
+AI11193,37,Male,Data Analyst,Manufacturing,10+ years,ChatGPT,Writing,6.1,Regular,Yes,85,77,3.4
+AI11194,56,Male,Teacher,Healthcare,0-1 years,ChatGPT,Writing,0.7,Regular,No,5,55,3.4
+AI11195,60,Female,HR,Manufacturing,2-5 years,ChatGPT,Data Analysis,0.7,Regular,No,0,61,3.1
+AI11196,43,Male,Marketing,Finance,0-1 years,Microsoft Copilot,Research,7.3,Regular,No,70,71,2.8
+AI11197,56,Non-binary,Software Developer,Healthcare,2-5 years,Other,Data Analysis,1.8,Rare,No,26,56,2.6
+AI11198,28,Female,Operations,Education,0-1 years,ChatGPT,Data Analysis,1.1,Occasional,No,18,57,3.4
+AI11199,34,Female,Marketing,Media,6-10 years,Claude,Writing,3.1,Occasional,No,18,60,2.1
+AI11200,54,Male,Student,Education,6-10 years,Gemini,Customer Support,1.6,Occasional,Yes,4,71,3.4
+AI11179,56,Female,Marketing,Healthcare,2-5 years,ChatGPT,Customer Support,2,Regular,No,29,49,2.2
+AI10866,29,Female,Student,Education,2-5 years,ChatGPT,Content Creation,2.3,Regular,No,32,76,2.4
+AI10102,42,Female,Finance,Media,10+ years,ChatGPT,Customer Support,1.3,Regular,No,14,55,3.3
+AI10440,20,Prefer not to say,Data Analyst,Other,6-10 years,ChatGPT,Learning,1.3,Regular,No,11,68,3.3
+AI10059,54,Female,HR,Media,10+ years,Other,Content Creation,1.5,Occasional,No,23,53,3
